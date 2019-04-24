@@ -14,9 +14,10 @@ I am a new assistant professor in the Department of Radiology & Biomedical Imagi
 
 I am a biomedical engineer by training, from my undergraduate studies at Johns Hopkins to my PhD research under [James S. Duncan](https://medicine.yale.edu/diagnosticradiology/people/james_duncan-1.profile) at Yale. In my research, I have utilized techniques spanning from Bayesian inference to modern machine learning. Biomedical applications of my work have varied from registration of brain images, to particle reconstruction for cryo-electron microscopy, to functional neuroimage analysis and neuroprediction.
 
-
-Recent Happenings
 ------
+
+## Recent Happenings
+
 - Submitted 4 papers to MICCAI 2019 - fingers crossed! - April 2, 2019
 - Submitted 2 papers to ICCV 2019 - March 22, 2019
 - [Paper](https://arxiv.org/abs/1812.06181) accepted at IPMI 2019! - Feb 26, 2019
