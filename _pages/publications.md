@@ -9,7 +9,7 @@ author_profile: true
   You can also find all my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-### Deep Learning and fMRI
+## Deep Learning and fMRI
 
 - Li, X., Dvornek, N.C., Zhou, Y., Zhuang, J., Ventola, P. and Duncan, J.S.  
 [Efficient Interpretation of Deep Learning Models Using Graph Structure and Cooperative Game Theory: Application to ASD Biomarker Discovery](https://arxiv.org/pdf/1812.06181.pdf)  
@@ -37,7 +37,7 @@ To appear in: *Information Processing in Medical Imaging (IPMI)*, June 2019.
 [Identifying Autism from Resting-State fMRI Using Long Short-Term Memory Networks](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67389-9_42.pdf)  
 *International Workshop on Machine Learning in Medical Imaging*, 2017, LNCS 10541, pp. 362-370.
 
-### Other Machine Learning
+## Other Machine Learning
 
 - Zhuang, J., Dvornek, N.C., Zhao, Q., Li, X., Ventola, P. and Duncan, J.S.  
 Prediction of treatment outcome for autism from structure of the brain based on sure independence screening  
@@ -68,7 +68,7 @@ To appear in: *IEEE International Symposium on Biomedical Imaging* (ISBI), April
 *Journal of Structural Biology*, 2015, vol. 190, no. 2, pp. 200-214.  
 \[[Code](https://www.mathworks.com/matlabcentral/fileexchange/50091-subspaceem-a-fast-maximum-a-posteriori-algorithm-for-cryo-em-single-particle-reconstruction)\]
 
-### Image Registration
+## Image Registration
 
 - Chitphakdithai, N.  
 [Registration of Pre- and Post-Treatment Brain Images with Missing Correspondences](https://pqdtopen.proquest.com/doc/1269517129.html?FMT=AI)  
