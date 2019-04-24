@@ -16,7 +16,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ------
 
-## Recent Happenings
+### Recent Happenings
 
 - Submitted 4 papers to MICCAI 2019 - fingers crossed! - April 2, 2019
 - Submitted 2 papers to ICCV 2019 - March 22, 2019
