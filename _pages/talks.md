@@ -5,12 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-[Learning from fMRI using Recurrent Neural Networks with Applications in Autism](/files/dvornek_fmri_seminar_2018.pdf)  
+- [Learning from fMRI using Recurrent Neural Networks with Applications in Autism](/files/dvornek_fmri_seminar_2018.pdf)  
 *Yale MRRC fMRI Seminar Series*  
 Yale School of Medicine, New Haven, CT  
 May 2018
 
-[Predicting Autism Behavioral Treatment Response from Baseline Functional MRI](/files/rising_stars_talk.pdf)  
+- [Predicting Autism Behavioral Treatment Response from Baseline Functional MRI](/files/rising_stars_talk.pdf)  
 *Rising Stars in Biomedical*  
 Massachusetts Institute of Technology, Cambridge, MA  
 November 2016
