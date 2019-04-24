@@ -1,0 +1,32 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+[Learning from fMRI using Recurrent Neural Networks with Applications in Autism](/files/dvornek_fmri_seminar_2018.pdf)  
+*Yale MRRC fMRI Seminar Series*  
+Yale School of Medicine, New Haven, CT  
+May 2018
+
+[Predicting Autism Behavioral Treatment Response from Baseline Functional MRI](/files/rising_stars_talk.pdf)  
+*Rising Stars in Biomedical*  
+Massachusetts Institute of Technology, Cambridge, MA  
+November 2016
+
+See [Publications](https://hellonicha.github.io/publications) page for presentations associated with peer-reviewed conference articles.
+
+<!--
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+-->
