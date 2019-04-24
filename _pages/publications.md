@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**_WIP_** 
-
 {% if author.googlescholar %}
   You can also find all my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
