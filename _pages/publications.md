@@ -40,7 +40,7 @@ To appear in: *Information Processing in Medical Imaging (IPMI)*, June 2019.
 ## Other Machine Learning
 
 - Zhuang, J., Dvornek, N.C., Zhao, Q., Li, X., Ventola, P. and Duncan, J.S.  
-Prediction of treatment outcome for autism from structure of the brain based on sure independence screening  
+[Prediction of treatment outcome for autism from structure of the brain based on sure independence screening](https://arxiv.org/pdf/1810.07809.pdf)  
 To appear in: *IEEE International Symposium on Biomedical Imaging* (ISBI), April 2019.
 
 - Zhuang, J., Dvornek, N.C., Li, X., Ventola, P. and Duncan, J.S.  
