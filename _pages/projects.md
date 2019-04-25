@@ -10,7 +10,7 @@ WIP
 # Current Projects
 
 ## Identification of Autism from fMRI
-![Classification Network](/images/baseline.pdf "Classification Network")
+<img src="/images/classification_network.png" alt="Classification Network" width="400"/>
 
 ## Prediction of Autism Treatment Outcome
 
