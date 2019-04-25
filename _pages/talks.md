@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Applications of Deep Learning in fMRI and Autism  
+*Yale Translational Research Imaging Center Seminar*  
+Yale School of Medicine, New Haven, CT  
+April 2019
+
 - [Learning from fMRI using Recurrent Neural Networks with Applications in Autism](/files/dvornek_fmri_seminar_2018.pdf)  
 *Yale MRRC fMRI Seminar Series*  
 Yale School of Medicine, New Haven, CT  
