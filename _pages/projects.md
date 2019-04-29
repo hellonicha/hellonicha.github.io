@@ -16,6 +16,8 @@ WIP
 
 ## Classification of Breathers
 
+---
+
 # Past Projects
 
 ## Fast Single Particle Reconstruction for Cryo-Electron Microscopy
