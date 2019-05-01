@@ -35,7 +35,8 @@ To appear in: *Information Processing in Medical Imaging (IPMI)*, June 2019.
 
 - Dvornek, N.C., Ventola, P., Pelphrey, K.A., Duncan, J.S.  
 [Identifying Autism from Resting-State fMRI Using Long Short-Term Memory Networks](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67389-9_42.pdf)  
-*International Workshop on Machine Learning in Medical Imaging*, 2017, LNCS 10541, pp. 362-370.
+*International Workshop on Machine Learning in Medical Imaging*, 2017, LNCS 10541, pp. 362-370.  
+\[[Slides](/files/mlmi2017_talk_final.pdf)\]
 
 ## Other Machine Learning
 
