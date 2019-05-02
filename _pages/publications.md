@@ -58,7 +58,8 @@ To appear in: *IEEE International Symposium on Biomedical Imaging* (ISBI), April
 
 - Dvornek, N.C., Yang, D., Venkataraman, A., Ventola, P., Staib, L.H., Pelphrey, K.A., Duncan, J.S.  
 [Prediction of Autism Treatment Response from Baseline fMRI using Random Forests and Tree Bagging](https://arxiv.org/pdf/1805.09799.pdf)  
-*International Workshop on Multimodal Learning for Clinical Decision Support*, 2016.
+*International Workshop on Multimodal Learning for Clinical Decision Support*, 2016.  
+\[[Slides](/files/mlcds_talk_final.pdf)\]
 
 - Venkataraman, A, Yang, D.Y.J., Dvornek, N, Staib, L.H., Duncan, J.S., Pelphrey, K.A., Ventola, P.  
 [Pivotal response treatment prompts a functional rewiring of the brain among individuals with autism spectrum disorder](https://journals.lww.com/neuroreport/fulltext/2016/10010/Pivotal_response_treatment_prompts_a_functional.14.aspx)  
@@ -89,7 +90,8 @@ Ph.D. Dissertation, Yale University, 2012.
 
 - Chitphakdithai, N. and Duncan, J.S.  
 [Non-rigid Registration with Missing Correspondences in Preoperative and Postresection Brain Images](https://link.springer.com/content/pdf/10.1007/978-3-642-15705-9_45.pdf)  
-*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2010, Part I, LNCS 6361, pp. 367-374.
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2010, Part I, LNCS 6361, pp. 367-374.  
+\[[Slides](/files/miccai2010_talk.pdf)\]
 
 - Chitphakdithai, N. and Duncan, J.S.  
 [Pairwise Registration of Images With Missing Correspondences Due to Resection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5490164)  
