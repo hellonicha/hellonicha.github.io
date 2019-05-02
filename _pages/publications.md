@@ -21,7 +21,7 @@ To appear in: *Information Processing in Medical Imaging (IPMI)*, June 2019.
 \[[Poster](/files/miccai2018_poster.pdf)\]
 
 - Li, X., Dvornek, N.C., Zhuang, J., Ventola, P. and Duncan, J.S.  
-[Brain biomarker interpretation in asd using deep learning and fmri](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1_24.pdf)  
+[Brain Biomarker Interpretation in ASD Using Deep Learning and fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1_24.pdf)  
 *Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2018, LNCS 11072, pp. 206-214.
 
 - Li, X., Dvornek, N., Papademetris, X., Zhuang, J., Staib, L.H., Ventola, P., Duncan, J.  
