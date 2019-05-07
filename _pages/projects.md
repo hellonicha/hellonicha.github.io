@@ -26,7 +26,11 @@ Cryo-electron Microscopy (cryo-EM) has emerged as a key tool for studying protei
 
 ## Image Registration with Missing Correspondences
 
+<img src="/images/reg.png" alt="Classification Network" width="500"/>
+
 Medical image registration is used to align patient images from different treatment time points to a single reference frame. This process of establishing correspondences between images is important for making meaningful comparisons across scans. Traditional registration algorithms assume a one-to-one correspondence between features in the images to be aligned. However, this assumption is clearly violated when the images are *missing correspondences*, which often occurs when dealing with patient data due to treatment effects or disease progression. Standard registration methods, therefore, will likely fail to align actual corresponding features, especially near locations with missing data, i.e. the regions of interest. [My PhD dissertation](https://search.proquest.com/docview/1269517129) focused on the development of an automated image registration algorithm to deal with the missing correspondence problem. The key idea is to incorporate the estimation of a label map segmenting the valid and missing correspondence voxels during the registration. We pose the registration problem in a maximum a posteriori framework and jointly solve for the transformation parameters and label map. The developed algorithmic framework is general and can be adapted to many missing correspondence problems, including [alignment of preoperative and postresection brain images](https://link.springer.com/content/pdf/10.1007/978-3-642-15705-9_45.pdf) and [tracking brain metastases over time](https://link.springer.com/content/pdf/10.1007%2F978-3-642-33555-6_11.pdf).
+
+
 
 <!---
 {% include base_path %}
