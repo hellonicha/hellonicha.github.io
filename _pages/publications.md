@@ -18,11 +18,12 @@ To appear in: *Information Processing in Medical Imaging (IPMI)*, June 2019.
 - Dvornek, N.C., Yang, D., Ventola, P., Duncan J.S.  
 [Learning Generalizable Recurrent Neural Networks from Small Task-fMRI Datasets](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1_38.pdf)  
 *Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, LNCS 11072, pp. 329–337.  
-\[[Poster](/files/miccai2018_poster.pdf)\]
+\[[Poster](/files/miccai2018_poster.pdf)\] \[[Preprint](/files/miccai2018_final.pdf)\]
 
 - Li, X., Dvornek, N.C., Zhuang, J., Ventola, P. and Duncan, J.S.  
 [Brain Biomarker Interpretation in ASD Using Deep Learning and fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1_24.pdf)  
-*Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2018, LNCS 11072, pp. 206-214.
+*Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2018, LNCS 11072, pp. 206-214.  
+\[[AAM](https://arxiv.org/pdf/1808.08296.pdf)\]
 
 - Li, X., Dvornek, N., Papademetris, X., Zhuang, J., Staib, L.H., Ventola, P., Duncan, J.  
 [2-Channel Convolutional 3D Deep Neural Network (2CC3D) for fMRI Analysis: ASD Classification and Feature Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8363798)  
@@ -31,12 +32,12 @@ To appear in: *Information Processing in Medical Imaging (IPMI)*, June 2019.
 - Dvornek, N.C., Ventola, P., Duncan, J.S.  
 [Combining Phenotypic and Resting-State fMRI Data for Autism Classification with Recurrent Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8363676)  
 *IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2018, pp. 725-528.  
-\[[Poster](/files/isbi2018_poster.pdf)\]
+\[[Poster](/files/isbi2018_poster.pdf)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6166875/)\]
 
 - Dvornek, N.C., Ventola, P., Pelphrey, K.A., Duncan, J.S.  
 [Identifying Autism from Resting-State fMRI Using Long Short-Term Memory Networks](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67389-9_42.pdf)  
 *International Workshop on Machine Learning in Medical Imaging*, 2017, LNCS 10541, pp. 362-370.  
-\[[Slides](/files/mlmi2017_talk_final.pdf)\]
+\[[Slides](/files/mlmi2017_talk_final.pdf)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5669262/)\]
 
 ## Other Machine Learning
 
@@ -63,12 +64,13 @@ To appear in: *IEEE International Symposium on Biomedical Imaging* (ISBI), April
 
 - Venkataraman, A, Yang, D.Y.J., Dvornek, N, Staib, L.H., Duncan, J.S., Pelphrey, K.A., Ventola, P.  
 [Pivotal response treatment prompts a functional rewiring of the brain among individuals with autism spectrum disorder](https://journals.lww.com/neuroreport/fulltext/2016/10010/Pivotal_response_treatment_prompts_a_functional.14.aspx)  
-*Neuroreport*, 2016, vol. 27, no. 14, pp. 1081-1085.
+*Neuroreport*, 2016, vol. 27, no. 14, pp. 1081-1085.  
+\[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007196/)\]
 
 - Dvornek, N.C., Sigworth, F.J., and Tagare, H.D.  
 [SubspaceEM: A Fast Maximum-a-posteriori Algorithm for Cryo-EM Single Particle Reconstruction](https://www.sciencedirect.com/science/article/pii/S1047847715000714?via%3Dihub)  
 *Journal of Structural Biology*, 2015, vol. 190, no. 2, pp. 200-214.  
-\[[Code](https://www.mathworks.com/matlabcentral/fileexchange/50091-subspaceem-a-fast-maximum-a-posteriori-algorithm-for-cryo-em-single-particle-reconstruction)\]
+\[[Code](https://www.mathworks.com/matlabcentral/fileexchange/50091-subspaceem-a-fast-maximum-a-posteriori-algorithm-for-cryo-em-single-particle-reconstruction)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4453989/)\]
 
 ## Image Registration
 
@@ -93,7 +95,7 @@ Ph.D. Dissertation, Yale University, 2012.
 - Chitphakdithai, N. and Duncan, J.S.  
 [Non-rigid Registration with Missing Correspondences in Preoperative and Postresection Brain Images](https://link.springer.com/content/pdf/10.1007/978-3-642-15705-9_45.pdf)  
 *Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2010, Part I, LNCS 6361, pp. 367-374.  
-\[[Slides](/files/miccai2010_talk.pdf)\]
+\[[Slides](/files/miccai2010_talk.pdf)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3031159/)\]
 
 - Chitphakdithai, N. and Duncan, J.S.  
 [Pairwise Registration of Images With Missing Correspondences Due to Resection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5490164)  
