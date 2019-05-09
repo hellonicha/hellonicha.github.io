@@ -9,6 +9,8 @@ author_profile: true
   You can also find all my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+Published articles are linked to in the titles when available. Public author versions are linked to in the titles (if in press), AAM (author accepted manuscript) or Preprint.
+
 ## Deep Learning and fMRI
 
 - Li, X., Dvornek, N.C., Zhou, Y., Zhuang, J., Ventola, P. and Duncan, J.S.  
@@ -47,7 +49,8 @@ To appear in: *IEEE International Symposium on Biomedical Imaging* (ISBI), April
 
 - Zhuang, J., Dvornek, N.C., Li, X., Ventola, P. and Duncan, J.S.  
 [Prediction of Severity and Treatment Outcome for ASD from fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00320-3_2.pdf)  
-*International Workshop on PRedictive Intelligence In MEdicine*, 2018, LNCS 11121, pp. 9-17.
+*International Workshop on PRedictive Intelligence In MEdicine*, 2018, LNCS 11121, pp. 9-17.  
+\[[AAM](https://arxiv.org/pdf/1810.11891.pdf)\]
 
 - Zhuang, J., Dvornek, N., Li, X., Yang, D., Ventola, P., Duncan, J.  
 [Prediction of pivotal response treatment outcome with task fMRI using random forest and variable selection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8363531)  
@@ -85,12 +88,12 @@ Ph.D. Dissertation, Yale University, 2012.
 - Chitphakdithai, N., Chiang, V.L., and Duncan, J.S.  
 [Non-rigid Registration of Longitudinal Brain Tumor Treatment MRI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6091212)  
 *International Conference of the IEEE Engineering in Medicine and Biology Society*, 2011, pp. 4893-4896.  
-\[[Slides](/files/embc2011_talk.pdf)\]
+\[[Slides](/files/embc2011_talk.pdf)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753806/)\]
 
 - Chitphakdithai, N., Vives, K.P., and Duncan, J.S.  
 [Registration of Brain Resection MRI with Intensity and Location Priors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5872690)  
 *IEEE International Symposium on Biomedical Imaging: From Nano to Macro*, 2011, pp. 1520-1523.  
-\[[Slides](/files/isbi2011_talk.pdf)\]
+\[[Slides](/files/isbi2011_talk.pdf)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6376974/)\]
 
 - Chitphakdithai, N. and Duncan, J.S.  
 [Non-rigid Registration with Missing Correspondences in Preoperative and Postresection Brain Images](https://link.springer.com/content/pdf/10.1007/978-3-642-15705-9_45.pdf)  
@@ -100,7 +103,7 @@ Ph.D. Dissertation, Yale University, 2012.
 - Chitphakdithai, N. and Duncan, J.S.  
 [Pairwise Registration of Images With Missing Correspondences Due to Resection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5490164)  
 *IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)*, 2010, pp. 1025-1028.  
-\[[Slides](/files/isbi2010_talk.pdf)\]
+\[[Slides](/files/isbi2010_talk.pdf)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3146293/)\]
 
 
 
