@@ -13,8 +13,10 @@ WIP
 <img src="/images/classification_network.png" alt="Classification Network" width="400"/>
 
 ## Prediction of Autism Treatment Outcome
+<img src="/images/treatment_outcome_network.png" alt="Treatment Outcome Prediction" width="500"/>
 
-## Classification of Breathers
+
+## Classification of Breathers for PET Imaging
 
 <img src="/images/resp_traces.png" alt="Respiratory Traces" width="500"/>
 
