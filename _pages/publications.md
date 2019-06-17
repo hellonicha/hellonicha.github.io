@@ -83,7 +83,8 @@ Ph.D. Dissertation, Yale University, 2012.
 
 - Chitphakdithai, N., Chiang, V.L., and Duncan, J.S.  
 [Tracking Metastatic Brain Tumors in Longitudinal Scans via Joint Image Registration and Labeling](https://link.springer.com/content/pdf/10.1007%2F978-3-642-33555-6_11.pdf)  
-*Spatiotemporal Image Analysis for Longitudinal and Time-Series Image Data*, 2012, LNCS 7570, pp. 124-136.
+*Spatiotemporal Image Analysis for Longitudinal and Time-Series Image Data*, 2012, LNCS 7570, pp. 124-136.  
+\[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6559745/)\]
 
 - Chitphakdithai, N., Chiang, V.L., and Duncan, J.S.  
 [Non-rigid Registration of Longitudinal Brain Tumor Treatment MRI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6091212)  
