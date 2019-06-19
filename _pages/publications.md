@@ -14,13 +14,14 @@ Published articles are linked to in the titles when available. Public author ver
 ## Deep Learning and fMRI
 
 - Li, X., Dvornek, N.C., Zhou, Y., Zhuang, J., Ventola, P. and Duncan, J.S.  
-[Efficient Interpretation of Deep Learning Models Using Graph Structure and Cooperative Game Theory: Application to ASD Biomarker Discovery](https://arxiv.org/pdf/1812.06181.pdf)  
-To appear in: *Information Processing in Medical Imaging (IPMI)*, June 2019.
+[Efficient Interpretation of Deep Learning Models Using Graph Structure and Cooperative Game Theory: Application to ASD Biomarker Discovery](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20351-1_56.pdf)
+*Information Processing in Medical Imaging (IPMI)*, 2019, LNCS 11492, pp 718-730.  
+[[AAM](https://arxiv.org/pdf/1812.06181.pdf)\]  
 
 - Dvornek, N.C., Yang, D., Ventola, P., Duncan J.S.  
 [Learning Generalizable Recurrent Neural Networks from Small Task-fMRI Datasets](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1_38.pdf)  
 *Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, LNCS 11072, pp. 329–337.  
-\[[Poster](/files/miccai2018_poster.pdf)\] \[[Preprint](/files/miccai2018_final.pdf)\]
+\[[Poster](/files/miccai2018_poster.pdf)\] \[[AAM](/files/miccai2018_cameraready.pdf)\]
 
 - Li, X., Dvornek, N.C., Zhuang, J., Ventola, P. and Duncan, J.S.  
 [Brain Biomarker Interpretation in ASD Using Deep Learning and fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1_24.pdf)  
