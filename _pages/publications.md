@@ -14,6 +14,10 @@ Published articles are linked to in the titles when available. Public author ver
 ## Deep Learning and fMRI
 
 - Li, X., Dvornek, N.C., Zhou, Y., Zhuang, J., Ventola, P. and Duncan, J.S.  
+[Graph Neural Network for Interpreting Task-fMRI Biomarkers](https://arxiv.org/pdf/1907.01661.pdf)  
+*To appear in MICCAI 2019*  
+
+- Li, X., Dvornek, N.C., Zhou, Y., Zhuang, J., Ventola, P. and Duncan, J.S.  
 [Efficient Interpretation of Deep Learning Models Using Graph Structure and Cooperative Game Theory: Application to ASD Biomarker Discovery](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20351-1_56.pdf)  
 *Information Processing in Medical Imaging (IPMI)*, 2019, LNCS 11492, pp 718-730.  
 [[AAM](https://arxiv.org/pdf/1812.06181.pdf)\]  
