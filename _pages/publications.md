@@ -49,13 +49,14 @@ Published articles are linked to in the titles when available. Public author ver
 ## Other Machine Learning
 
 - Zhuang, J., Dvornek, N.C., Zhao, Q., Li, X., Ventola, P. and Duncan, J.S.  
-[Prediction of treatment outcome for autism from structure of the brain based on sure independence screening](https://arxiv.org/pdf/1810.07809.pdf)  
-To appear in: *IEEE International Symposium on Biomedical Imaging* (ISBI), April 2019.
+[Prediction of treatment outcome for autism from structure of the brain based on sure independence screening](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759156)  
+To appear in: *IEEE International Symposium on Biomedical Imaging* (ISBI), April 2019.  
+\[[AAM](https://arxiv.org/pdf/1810.07809.pdf)\]
 
 - Zhuang, J., Dvornek, N.C., Li, X., Ventola, P. and Duncan, J.S.  
 [Prediction of Severity and Treatment Outcome for ASD from fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00320-3_2.pdf)  
 *International Workshop on PRedictive Intelligence In MEdicine*, 2018, LNCS 11121, pp. 9-17.  
-\[[AAM](https://arxiv.org/pdf/1810.11891.pdf)\]
+\[[AAM](https://arxiv.org/pdf/1810.11891.pdf)\]  
 
 - Zhuang, J., Dvornek, N., Li, X., Yang, D., Ventola, P., Duncan, J.  
 [Prediction of pivotal response treatment outcome with task fMRI using random forest and variable selection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8363531)  
