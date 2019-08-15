@@ -18,6 +18,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ### Recent Happenings
 
+- Paper accepted to MLMI (MICCAI Workshop) 2019! - August 13, 2019
 - 3 papers accepted to MICCAI 2019! - June 29, 2019 
 - Submitted 2 papers to ICCV 2019 - March 22, 2019
 - [Paper](https://arxiv.org/abs/1812.06181) accepted at IPMI 2019! - Feb 26, 2019
