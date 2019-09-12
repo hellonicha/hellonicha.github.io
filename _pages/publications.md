@@ -13,6 +13,10 @@ Published articles are linked to in the titles when available. Public author ver
 
 ## Deep Learning and fMRI
 
+- Zhuang, J., Dvornek, N.C., Li, X., Ventola, P. and Duncan, J.S.  
+[Invertible Network for Classification and Biomarker Selection for ASD](https://arxiv.org/pdf/1907.09729.pdf)  
+*To appear in MICCAI 2019*  
+
 - Li, X., Dvornek, N.C., Zhou, Y., Zhuang, J., Ventola, P. and Duncan, J.S.  
 [Graph Neural Network for Interpreting Task-fMRI Biomarkers](https://arxiv.org/pdf/1907.01661.pdf)  
 *To appear in MICCAI 2019*  
@@ -45,6 +49,22 @@ Published articles are linked to in the titles when available. Public author ver
 [Identifying Autism from Resting-State fMRI Using Long Short-Term Memory Networks](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67389-9_42.pdf)  
 *International Workshop on Machine Learning in Medical Imaging*, 2017, LNCS 10541, pp. 362-370.  
 \[[Slides](/files/mlmi2017_talk_final.pdf)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5669262/)\]
+
+## Deep Learning in Segmentation
+
+- Yang, J., Dvornek, N.C., Zhang, F., Zhuang, J., Chapiro, J., Lin, M. and Duncan, J.S.  
+[Domain-Agnostic Learning with Anatomy-Consistent Embedding for Cross-Modality Liver Segmentation](https://arxiv.org/pdf/1908.10489.pdf)  
+*To appear in VRMI 2019*  
+
+
+- Zhuang, J., Yang, J., Gu, L. and Dvornek, N.C.,  
+[ShelfNet for Fast Semantic Segmentation](https://arxiv.org/pdf/1811.11254.pdf)  
+*To appear in CVRSUAD 2019*  
+
+- Yang, J., Dvornek, N.C., Zhang, F., Chapiro, J., Lin, M. and Duncan, J.S.  
+[Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation](https://arxiv.org/pdf/1907.13590.pdf)  
+*To appear in MICCAI 2019*  
+
 
 ## Other Machine Learning
 
