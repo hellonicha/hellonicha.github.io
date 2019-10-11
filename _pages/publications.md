@@ -14,7 +14,7 @@ Published articles are linked to in the titles when available. Public author ver
 ## Deep Learning and fMRI
 
 - Dvornek, N.C., Li, X., Zhuang, J., and Duncan, J.S.  
-[Jointly Discriminative and Generative Recurrent Neural Networks for Learning from fMRI](https://github.com/hellonicha/hellonicha.github.io/blob/master/files/mlmi2019_cameraready.pdf)  
+[Jointly Discriminative and Generative Recurrent Neural Networks for Learning from fMRI](/files/mlmi2019_cameraready.pdf)  
 *To appear in MLMI 2019 (MICCAI Workshop)*  
 
 - Zhuang, J., Dvornek, N.C., Li, X., Ventola, P. and Duncan, J.S.  
