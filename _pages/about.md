@@ -19,6 +19,6 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ### Recent Happenings
 
 - Paper accepted to VRMI (ICCV Workshop) 2019! - August 26, 2019
-- Paper accepted to MLMI (MICCAI Workshop) 2019! - August 13, 2019
+- [Paper](https://github.com/hellonicha/hellonicha.github.io/blob/master/files/mlmi2019_cameraready.pdf) accepted to MLMI (MICCAI Workshop) 2019! - August 13, 2019
 - Paper accepted to CVRSUAD (ICCV Workshop) 2019! - August 8, 2019
 - 3 papers accepted to MICCAI 2019! - June 29, 2019 
