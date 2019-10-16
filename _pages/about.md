@@ -17,7 +17,8 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ### Recent Happenings
-
+- First place in the Connectomics in Neuroimaging - [Transfer Learning Challenge](http://www.brainconnectivity.net/challenge.html)! - October 13, 2019
+- Our [paper](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_44) won the Best Paper Award at [MLMI 2019](http://mlmi2019.web.unc.edu/)! - October 13, 2019
 - Paper accepted to VRMI (ICCV Workshop) 2019! - August 26, 2019
 - [Paper](/files/mlmi2019_cameraready.pdf) accepted to MLMI (MICCAI Workshop) 2019! - August 13, 2019
 - Paper accepted to CVRSUAD (ICCV Workshop) 2019! - August 8, 2019
