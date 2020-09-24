@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Deep Learning from fMRI with Application to Autism Spectrum Disorder  
+*BME Seminar Series*  
+Department of Biomedical Engineering, Yale University, New Haven, CT (via Zoom)  
+September 2020
+
 - Applications of Deep Learning in fMRI and Autism  
 *Yale Translational Research Imaging Center Seminar*  
 Yale School of Medicine, New Haven, CT  
