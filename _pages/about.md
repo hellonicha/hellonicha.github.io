@@ -17,9 +17,10 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ### Recent Happenings
+- Best [Paper](https://link.springer.com/chapter/10.1007/978-3-030-60548-3_6) Award at DART 2020! Congratulations Junlin! - October 8, 2020
+- Our paper "AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients" was accepted for Spotlight Presentation at NeurIPS 2020 - Congratulations [Juntang](https://juntang-zhuang.github.io/)! - September 25, 2020
+- 1 paper accepted at [MLMI 2020](https://mlmi2020.web.unc.edu/) - July 30, 2020
+- 2 papers accepted at MICCAI 2020 - Congrats Xiaoxiao! - June 22, 2020
+- 1 early accept at MICCAI 2020 - Congrats Xiaoxiao! - May 18, 2020
 - First place in the Connectomics in Neuroimaging - [Transfer Learning Challenge](http://www.brainconnectivity.net/challenge.html)! - October 13, 2019
 - Our [paper](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_44) won the Best Paper Award at [MLMI 2019](http://mlmi2019.web.unc.edu/)! - October 13, 2019
-- Paper accepted to VRMI (ICCV Workshop) 2019! - August 26, 2019
-- [Paper](/files/mlmi2019_cameraready.pdf) accepted to MLMI (MICCAI Workshop) 2019! - August 13, 2019
-- Paper accepted to CVRSUAD (ICCV Workshop) 2019! - August 8, 2019
-- 3 papers accepted to MICCAI 2019! - June 29, 2019 
