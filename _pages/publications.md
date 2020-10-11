@@ -103,6 +103,11 @@ Published articles are linked to in the titles when available. Public author ver
 
 ## Other Deep Learning
 
+- Zhuang, J., Tang, T. Tatikonda, S.C., Dvornek, N., Ding, Y., Papademetris, X., Duncan, J.  
+[AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients]  
+To appear in *Neural Information Processing Systems (NeurIPS) 2020*  
+***Spotlight Presentation (<3% of submissions)***
+
 - Zhang, F., Dvornek, N., Yang, J., Chapiro., J., Duncan, J.  
 [Layer Embedding Analysis in Convolutional Neural Networks for Improved Probability Calibration and Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082023)  
 *IEEE Transactions on Medical Imaging*, In Press., 2020.
