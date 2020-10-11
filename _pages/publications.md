@@ -31,6 +31,7 @@ Published articles are linked to in the titles when available. Public author ver
 - Dvornek, N.C., Ventola, P., Duncan, J.S.  
 [Estimating Reproducible Functional Networks Associated with Task Dynamics Using Unsupervised LSTMS](https://ieeexplore.ieee.org/abstract/document/9098377)  
 *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2020.  
+[[Slides](/files/isbi2020_slides.pdf)] [[AAM](/files/isbi2020_cameraready.pdf)] 
 
 - Dvornek, N.C., Li, X., Zhuang, J., and Duncan, J.S.  
 [Jointly Discriminative and Generative Recurrent Neural Networks for Learning from fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_44.pdf)  
@@ -85,21 +86,24 @@ Published articles are linked to in the titles when available. Public author ver
 ***\*Best Paper Award\****
 
 - Yang, J., Dvornek, N.C., Zhang, F., Zhuang, J., Chapiro, J., Lin, M. and Duncan, J.S.  
-[Domain-Agnostic Learning with Anatomy-Consistent Embedding for Cross-Modality Liver Segmentation](https://arxiv.org/pdf/1908.10489.pdf)  
-*To appear in VRMI 2019*  
+[Domain-Agnostic Learning with Anatomy-Consistent Embedding for Cross-Modality Liver Segmentation](https://ieeexplore.ieee.org/document/9022229)  
+*Visual Recognition for Medical Images (VRMI, IEEE/CVF International Conference on Computer Vision Workshop)*, 2019.  
+[[AAM](https://arxiv.org/pdf/1908.10489.pdf)]
 
 - Zhuang, J., Yang, J., Gu, L. and Dvornek, N.C.,  
-[ShelfNet for Fast Semantic Segmentation](https://arxiv.org/pdf/1811.11254.pdf)  
-*To appear in CVRSUAD 2019*  
+[ShelfNet for Fast Semantic Segmentation](https://ieeexplore.ieee.org/document/9022208)  
+*Computer Vision for Road Scene Understanding and Autonomous Driving, (CVRSUAD, IEEE/CVF International Conference on Computer Vision Workshop)*, 2019.  
+[[Code](https://github.com/juntang-zhuang/ShelfNet)] [[AAM](https://arxiv.org/pdf/1811.11254.pdf)]
 
 - Yang, J., Dvornek, N.C., Zhang, F., Chapiro, J., Lin, M. and Duncan, J.S.  
-[Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation](https://arxiv.org/pdf/1907.13590.pdf)  
-*To appear in MICCAI 2019*  
+[Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_29)  
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2019, LNCS 11765, pp. 255-263.  
+[[AAM](https://arxiv.org/pdf/1907.13590.pdf)]
 
 
 ## Other Deep Learning
 
-Zhang, F., Dvornek, N., Yang, J., Chapiro., J., Duncan, J.  
+- Zhang, F., Dvornek, N., Yang, J., Chapiro., J., Duncan, J.  
 [Layer Embedding Analysis in Convolutional Neural Networks for Improved Probability Calibration and Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082023)  
 *IEEE Transactions on Medical Imaging*, In Press., 2020.
 
@@ -117,7 +121,7 @@ Zhang, F., Dvornek, N., Yang, J., Chapiro., J., Duncan, J.
 
 - Zhuang, J., Dvornek, N.C., Zhao, Q., Li, X., Ventola, P. and Duncan, J.S.  
 [Prediction of treatment outcome for autism from structure of the brain based on sure independence screening](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759156)  
-To appear in: *IEEE International Symposium on Biomedical Imaging* (ISBI), April 2019.  
+*IEEE International Symposium on Biomedical Imaging* (ISBI), April 2019.  
 \[[AAM](https://arxiv.org/pdf/1810.07809.pdf)\]
 
 - Zhuang, J., Dvornek, N.C., Li, X., Ventola, P. and Duncan, J.S.  
