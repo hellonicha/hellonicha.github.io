@@ -14,20 +14,29 @@ Published articles are linked to in the titles when available. Public author ver
 ## Deep Learning and fMRI
 
 - Dvornek, N.C., Li, X., Zhuang, J., and Duncan, J.S.  
-[Jointly Discriminative and Generative Recurrent Neural Networks for Learning from fMRI](/files/mlmi2019_cameraready.pdf)  
-*To appear in MLMI 2019 (MICCAI Workshop)*  
+[Demographic-Guided Attention in Recurrent Neural Networks for Modeling Neuropathophysiological Heterogeneity](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59861-7_37.pdf)  
+*Machine Learning in Medical Imaging (MLMI, a MICCAI Workshop)*, 2020, LNCS 12436, pp. 363-372.  
+[[AAM](/files/mlmi2020_dvornek_cameraready.pdf)]
+
+- Dvornek, N.C., Li, X., Zhuang, J., and Duncan, J.S.  
+[Jointly Discriminative and Generative Recurrent Neural Networks for Learning from fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_44.pdf)  
+*Machine Learning in Medical Imaging (MLMI, a MICCAI Workshop)*, 2019, LNCS 11861, pp. 382-390.  
+[[AAM](/files/mlmi2019_cameraready.pdf)]  
+***\*Best Paper Award\****
 
 - Zhuang, J., Dvornek, N.C., Li, X., Ventola, P. and Duncan, J.S.  
 [Invertible Network for Classification and Biomarker Selection for ASD](https://arxiv.org/pdf/1907.09729.pdf)  
-*To appear in MICCAI 2019*  
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2019, LNCS 11766, pp. 700–708.  
+[[AAM](https://arxiv.org/pdf/1907.09729.pdf)]
 
 - Li, X., Dvornek, N.C., Zhou, Y., Zhuang, J., Ventola, P. and Duncan, J.S.  
-[Graph Neural Network for Interpreting Task-fMRI Biomarkers](https://arxiv.org/pdf/1907.01661.pdf)  
-*To appear in MICCAI 2019*  
+[Graph Neural Network for Interpreting Task-fMRI Biomarkers](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32254-0_54.pdf)  
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2019, LNCS 11768, pp. 485-493.  
+[[AAM](https://arxiv.org/pdf/1907.01661.pdf)] 
 
 - Li, X., Dvornek, N.C., Zhou, Y., Zhuang, J., Ventola, P. and Duncan, J.S.  
 [Efficient Interpretation of Deep Learning Models Using Graph Structure and Cooperative Game Theory: Application to ASD Biomarker Discovery](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20351-1_56.pdf)  
-*Information Processing in Medical Imaging (IPMI)*, 2019, LNCS 11492, pp 718-730.  
+*Information Processing in Medical Imaging (IPMI)*, 2019, LNCS 11492, pp. 718-730.  
 [[AAM](https://arxiv.org/pdf/1812.06181.pdf)\]  
 
 - Dvornek, N.C., Yang, D., Ventola, P., Duncan J.S.  
@@ -56,10 +65,14 @@ Published articles are linked to in the titles when available. Public author ver
 
 ## Deep Learning in Segmentation
 
+- Yang, J., Li, X., Pak, D., Dvornek, N.C., Chapiro, J., Lin, M.D., Duncan, J.S.  
+[Cross-Modality Segmentation by Self-supervised Semantic Alignment in Disentangled Content Space](https://link.springer.com/content/pdf/10.1007%2F978-3-030-60548-3_6.pdf)  
+*Domain Adaptation and Representation Transfer (DART, a MICCAI Workshop)*, 2020, LNCS 12444, pp. 52-61.  
+***\*Best Paper Award\****
+
 - Yang, J., Dvornek, N.C., Zhang, F., Zhuang, J., Chapiro, J., Lin, M. and Duncan, J.S.  
 [Domain-Agnostic Learning with Anatomy-Consistent Embedding for Cross-Modality Liver Segmentation](https://arxiv.org/pdf/1908.10489.pdf)  
 *To appear in VRMI 2019*  
-
 
 - Zhuang, J., Yang, J., Gu, L. and Dvornek, N.C.,  
 [ShelfNet for Fast Semantic Segmentation](https://arxiv.org/pdf/1811.11254.pdf)  
