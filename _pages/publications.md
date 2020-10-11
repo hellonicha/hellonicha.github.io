@@ -18,6 +18,20 @@ Published articles are linked to in the titles when available. Public author ver
 *Machine Learning in Medical Imaging (MLMI, a MICCAI Workshop)*, 2020, LNCS 12436, pp. 363-372.  
 [[AAM](/files/mlmi2020_dvornek_cameraready.pdf)]
 
+- Li, X., Zhou, Y., Dvornek, N.C., Zhang, M., Zhuang, J., Ventola, P. and Duncan, J.S.  
+[Pooling Regularized Graph Neural Network for fMRI Biomarker Analysis](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_61)  
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2020, LNCS 12267, pp. 625-635.  
+[[AAM](https://arxiv.org/pdf/2007.14589.pdf)] 
+
+- Li, X., Gu, Y., Dvornek, N., Staib, L.H., Ventola, P. and Duncan, J.S.  
+[Multi-site fMRI analysis using privacy-preserving federated learning and domain adaptation: ABIDE results](https://www.sciencedirect.com/science/article/pii/S1361841520301298)  
+*Medical Image Analysis*, vol. 65, 2020, pp. 101765.  
+[[AAM](https://arxiv.org/pdf/2001.05647.pdf)]
+
+- Dvornek, N.C., Ventola, P., Duncan, J.S.  
+[Estimating Reproducible Functional Networks Associated with Task Dynamics Using Unsupervised LSTMS](https://ieeexplore.ieee.org/abstract/document/9098377)  
+*IEEE International Symposium on Biomedical Imaging (ISBI)*, 2020.  
+
 - Dvornek, N.C., Li, X., Zhuang, J., and Duncan, J.S.  
 [Jointly Discriminative and Generative Recurrent Neural Networks for Learning from fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_44.pdf)  
 *Machine Learning in Medical Imaging (MLMI, a MICCAI Workshop)*, 2019, LNCS 11861, pp. 382-390.  
@@ -81,6 +95,22 @@ Published articles are linked to in the titles when available. Public author ver
 - Yang, J., Dvornek, N.C., Zhang, F., Chapiro, J., Lin, M. and Duncan, J.S.  
 [Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation](https://arxiv.org/pdf/1907.13590.pdf)  
 *To appear in MICCAI 2019*  
+
+
+## Other Deep Learning
+
+Zhang, F., Dvornek, N., Yang, J., Chapiro., J., Duncan, J.  
+[Layer Embedding Analysis in Convolutional Neural Networks for Improved Probability Calibration and Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082023)  
+*IEEE Transactions on Medical Imaging*, In Press., 2020.
+
+- Li, X., Zhou, Y., Dvornek, N.C., Gu, Y., Ventola, P. and Duncan, J.S.  
+[Efficient Shapley Explanation for Features Importance Estimation Under Uncertainty](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_77)  
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2020, LNCS 12261, pp. 792-801.  
+
+- Zhuang, J., Dvornek, N., Li, X., Tatikonda, S., Papademetris, X., Duncan, J.S.  
+[Adaptive Checkpoint Adjoint Method for Gradient Estimation in Neural ODE](https://proceedings.icml.cc/paper/2020/file/da0d1111d2dc5d489242e60ebcbaf988-Paper.pdf)  
+*International Conference on Machine Learning (ICML)*, 2020, PMLR 119.  
+[[AAM](https://arxiv.org/pdf/2006.02493.pdf)]
 
 
 ## Other Machine Learning
