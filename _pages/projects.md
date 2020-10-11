@@ -16,15 +16,15 @@ WIP
 <img src="/images/treatment_outcome_network.png" alt="Treatment Outcome Prediction" width="500"/>
 
 
+---
+
+# Past Projects
+
 ## Classification of Breathers for PET Imaging
 
 <img src="/images/resp_traces.png" alt="Respiratory Traces" width="500"/>
 
 Positron-emission tomography (PET) imaging plays an important role in cancer management. Motion correction is essential for mitigating respiratory motion for accurate tumor detection and quantification in the lung and abdomen. Existing motion correction methods based on phase gating work well for "regular" breathers, but result in blurry images for "irregular" breathers due to inter-cycle and intra-cycle motion variations. Sophisticated motion correction techniques work well for all breathers, but their high computational complexity dictate that such approaches be reserved for irregular breathers. To handle this motion correction problem, we propose to first classify regular and irregular breathing patterns using respiratory trace data acquired during the PET scan. The respiratory traces are used as input to a deep learning model based on recurrent neural networks to learn the breather type directly from the trace signal. The breather classification system will provide the foundation for a personalized motion correction framework to provide the optimal tumor imaging for each individual patient.
-
----
-
-# Past Projects
 
 ## Fast Single Particle Reconstruction for Cryo-Electron Microscopy
 
