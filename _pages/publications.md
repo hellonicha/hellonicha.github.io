@@ -104,8 +104,9 @@ Published articles are linked to in the titles when available. Public author ver
 ## Other Deep Learning
 
 - Zhuang, J., Tang, T. Tatikonda, S.C., Dvornek, N., Ding, Y., Papademetris, X., Duncan, J.  
-[AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients]  
+[AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://arxiv.org/pdf/2010.07468.pdf)  
 To appear in *Neural Information Processing Systems (NeurIPS) 2020*  
+[[Code](https://github.com/juntang-zhuang/Adabelief-Optimizer)]  
 ***Spotlight Presentation (<3% of submissions)***
 
 - Zhang, F., Dvornek, N., Yang, J., Chapiro., J., Duncan, J.  
