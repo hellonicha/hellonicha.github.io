@@ -37,7 +37,7 @@ Published articles are linked to in the titles when available. Public author ver
 [Jointly Discriminative and Generative Recurrent Neural Networks for Learning from fMRI](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_44.pdf)  
 *Machine Learning in Medical Imaging (MLMI, a MICCAI Workshop)*, 2019, LNCS 11861, pp. 382-390.  
 [[Slides](/files/mlmi2019_final_split.pdf)] [[AAM](/files/mlmi2019_cameraready.pdf)]  
-***\*Best Paper Award\****
+***\*Best Paper Award\**** (1/158 submissions)
 
 - Zhuang, J., Dvornek, N.C., Li, X., Ventola, P. and Duncan, J.S.  
 [Invertible Network for Classification and Biomarker Selection for ASD](https://arxiv.org/pdf/1907.09729.pdf)  
