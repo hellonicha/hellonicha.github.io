@@ -15,6 +15,7 @@ WIP
 ## Prediction of Autism Treatment Outcome
 <img src="/images/treatment_outcome_network.png" alt="Treatment Outcome Prediction" width="500"/>
 
+## Body Motion Correction in Dynamic PET Imaging
 
 ---
 
