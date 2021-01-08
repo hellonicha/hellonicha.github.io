@@ -17,8 +17,8 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ### Recent Happenings
-- Paper accepted at ISBI 2021 - Congrats Shiyu on your first conference paper! - January 8, 2021
-- Best [Paper](https://link.springer.com/chapter/10.1007/978-3-030-60548-3_6) Award at DART 2020! Congratulations Junlin! - October 8, 2020
+- Paper accepted at [ISBI 2021](https://biomedicalimaging.org/2021/) - Congrats Shiyu on your first conference paper! - January 8, 2021
+- Best [Paper](https://link.springer.com/chapter/10.1007/978-3-030-60548-3_6) Award at [DART 2020](https://sites.google.com/view/dart2020/)! Congratulations Junlin! - October 8, 2020
 - Our paper "AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients" was accepted for Spotlight Presentation at NeurIPS 2020 - Congratulations [Juntang](https://juntang-zhuang.github.io/)! - September 25, 2020
 - 1 paper accepted at [MLMI 2020](https://mlmi2020.web.unc.edu/) - July 30, 2020
 - 2 papers accepted at MICCAI 2020 - Congrats Xiaoxiao! - June 22, 2020
