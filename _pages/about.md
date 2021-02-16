@@ -16,7 +16,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ------
 
-### Recent Happenings
+## Recent Happenings
 - Paper accepted to [IPMI 2021](http://ipmi2021.org/) - Congrats Juntang! - February 12, 2021
 - [Paper](https://openreview.net/forum?id=blfSjHeFM_e) accepted to ICLR 2021 - Congrats Juntang - January 12, 2021
 - Journal [paper](https://arxiv.org/abs/2006.03611) summarizing the results of the 2019 Connectomics in Neuroimaging - [Transfer Learning Challenge](http://www.brainconnectivity.net/challenge.html), where we won the Best Challenger Award, has been accepted by _Medical Image Analysis_ - January 11, 2021
