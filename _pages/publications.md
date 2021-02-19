@@ -29,7 +29,7 @@ Medical Image Analysis, 2021, pp. 101972
 - Li, X., Zhou, Y., Dvornek, N.C., Zhang, M., Zhuang, J., Ventola, P. and Duncan, J.S.  
 [Pooling Regularized Graph Neural Network for fMRI Biomarker Analysis](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_61)  
 *Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2020, LNCS 12267, pp. 625-635.  
-[[AAM](https://arxiv.org/pdf/2007.14589.pdf)] 
+[[Slides](/files/mlmi2020_slides.pdf)] [[AAM](https://arxiv.org/pdf/2007.14589.pdf)] 
 
 - Li, X., Gu, Y., Dvornek, N., Staib, L.H., Ventola, P. and Duncan, J.S.  
 [Multi-site fMRI analysis using privacy-preserving federated learning and domain adaptation: ABIDE results](https://www.sciencedirect.com/science/article/pii/S1361841520301298)  
