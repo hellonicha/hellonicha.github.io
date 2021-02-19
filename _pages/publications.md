@@ -13,6 +13,14 @@ Published articles are linked to in the titles when available. Public author ver
 
 ## Deep Learning and fMRI
 
+- Wang, S., and Dvornek, N.C.  
+[A Metamodel Structure For Regression Analysis: Application To Prediction Of Autism Spectrum Disorder Severity](/files/ISBI2021_Shiyu.pdf)  
+To appear in *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2021.  
+
+- Schirmer, M.D., Venkataraman, A., Rekik, I., Kim, M., Mostofsky, S.H., Nebel, M.B., Rosch, K., Seymour, K., Crocetti, D., Irzan, H., Hütel, M., Ourselin,S ., Marlow, N., Melbourne, A., Levchenko, D., Zhou, S., Kunda, M., Lu, H., Dvornek, N.C, Zhuang, J., Pinto, G., Samal, S., Zhang, J., Bernal-Rusiel, J.L., Pienaar, R., and Chung, A. W.  
+[Neuropsychiatric Disease Classification Using Functional Connectomics-Results of the Connectomics in NeuroImaging Transfer Learning Challenge](https://www.sciencedirect.com/science/article/pii/S1361841521000189?casa_token=TjDmuSWrHkUAAAAA:8rSQ9jl4FNvnr1AkwFgBgep6P4YErW1Ij-qY2KFpEJYOfDCgw7bncYxF5FB8JZ3rHyt4slUwdIM)  
+Medical Image Analysis, 2021, pp. 101972
+
 - Dvornek, N.C., Li, X., Zhuang, J., and Duncan, J.S.  
 [Demographic-Guided Attention in Recurrent Neural Networks for Modeling Neuropathophysiological Heterogeneity](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59861-7_37.pdf)  
 *Machine Learning in Medical Imaging (MLMI, a MICCAI Workshop)*, 2020, LNCS 12436, pp. 363-372.  
@@ -103,11 +111,15 @@ Published articles are linked to in the titles when available. Public author ver
 
 ## Other Deep Learning
 
+- Zhuang, J., Dvornek, N.C., Tatikonda, S.C., Duncan, J.  
+[MALI: A memory efficient and reverse accurate integrator for Neural ODEs](https://openreview.net/forum?id=blfSjHeFM_e)  
+To appear in *International Conference on Learning Representations (ICLR) 2021*  
+
 - Zhuang, J., Tang, T. Tatikonda, S.C., Dvornek, N., Ding, Y., Papademetris, X., Duncan, J.  
 [AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://arxiv.org/pdf/2010.07468.pdf)  
 To appear in *Neural Information Processing Systems (NeurIPS) 2020*  
-[[Code](https://github.com/juntang-zhuang/Adabelief-Optimizer)]  
-***Spotlight Presentation (<3% of submissions)***
+[[Code](https://github.com/juntang-zhuang/Adabelief-Optimizer)] [[Webpage](https://juntang-zhuang.github.io/adabelief/)]  
+***Spotlight Presentation (<3% of submissions)***  
 
 - Zhang, F., Dvornek, N., Yang, J., Chapiro., J., Duncan, J.  
 [Layer Embedding Analysis in Convolutional Neural Networks for Improved Probability Calibration and Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082023)  
