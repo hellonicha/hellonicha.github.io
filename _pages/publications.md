@@ -202,6 +202,12 @@ Ph.D. Dissertation, Yale University, 2012.
 \[[Slides](/files/isbi2010_talk.pdf)\] \[[AAM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3146293/)\]
 
 
+## Conference Proceedings following Peer-Reviewed Abstract
+
+- Guo, Y., Dvornek, N., Lu, Y., Tsai, Y.J., Hamill, J., Casey, M. and Liu, C.  
+[Deep Learning based Respiratory Pattern Classification and Applications in PET/CT Motion Correction](https://ieeexplore.ieee.org/abstract/document/9059783)  
+*IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, 2019.  
+[[Preprint](/files/NSSMIC_CR_YinGuo.pdf)]
 
 <!---
 
