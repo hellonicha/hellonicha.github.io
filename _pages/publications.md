@@ -204,10 +204,16 @@ Ph.D. Dissertation, Yale University, 2012.
 
 ## Conference Proceedings following Peer-Reviewed Abstract
 
+- Li, X., Dvornek, N.C., Zhuang, J., Ventola, P. and Duncan, J.  
+[Graph embedding using infomax for ASD classification and brain functional difference detection](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11317/1131702/Graph-embedding-using-Infomax-for-ASD-classification-and-brain-functional/10.1117/12.2549451.short?SSO=1)   
+*Medical Imaging 2020: Biomedical Applications in Molecular, Structural, and Functional Imaging (SPIE Medical Imaging)*, 2020, Vol. 11317, p. 1131702.  
+[[AAM](https://pubmed.ncbi.nlm.nih.gov/33082616/)]  
+
 - Guo, Y., Dvornek, N., Lu, Y., Tsai, Y.J., Hamill, J., Casey, M. and Liu, C.  
 [Deep Learning based Respiratory Pattern Classification and Applications in PET/CT Motion Correction](https://ieeexplore.ieee.org/abstract/document/9059783)  
 *IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)*, 2019.  
 [[Preprint](/files/NSSMIC_CR_YinGuo.pdf)]
+
 
 <!---
 
