@@ -17,8 +17,9 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- Workshop proposal on Interpretable Machine Learning in Healthcare accepted by ICML 2021 - April 3, 2021
 - Paper accepted to [IPMI 2021](http://ipmi2021.org/) - Congrats Juntang! - February 12, 2021
-- [Paper](https://openreview.net/forum?id=blfSjHeFM_e) accepted to ICLR 2021 - Congrats Juntang - January 12, 2021
+- [Paper](https://openreview.net/forum?id=blfSjHeFM_e) accepted to ICLR 2021 - Congrats Juntang! - January 12, 2021
 - Journal [paper](https://arxiv.org/abs/2006.03611) summarizing the results of the 2019 Connectomics in Neuroimaging - [Transfer Learning Challenge](http://www.brainconnectivity.net/challenge.html), where we won the Best Challenger Award, has been accepted by _Medical Image Analysis_ - January 11, 2021
 - Paper accepted at [ISBI 2021](https://biomedicalimaging.org/2021/) - Congrats Shiyu on your first conference paper! - January 8, 2021
 - Best [Paper](https://link.springer.com/chapter/10.1007/978-3-030-60548-3_6) Award at [DART 2020](https://sites.google.com/view/dart2020/)! Congratulations Junlin! - October 8, 2020
