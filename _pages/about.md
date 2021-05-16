@@ -17,6 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- Paper accepted by IEEE Transactions on Medical Imaging - Congrats Luyao! - May 15, 2021
 - Workshop proposal on Interpretable Machine Learning in Healthcare accepted by ICML 2021 - April 3, 2021
 - Paper accepted to [IPMI 2021](http://ipmi2021.org/) - Congrats Juntang! - February 12, 2021
 - [Paper](https://openreview.net/forum?id=blfSjHeFM_e) accepted to ICLR 2021 - Congrats Juntang! - January 12, 2021
@@ -25,5 +26,3 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 - Best [Paper](https://link.springer.com/chapter/10.1007/978-3-030-60548-3_6) Award at [DART 2020](https://sites.google.com/view/dart2020/)! Congratulations Junlin! - October 8, 2020
 - Our paper "AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients" was accepted for Spotlight Presentation at NeurIPS 2020 - Congratulations [Juntang](https://juntang-zhuang.github.io/)! - September 25, 2020
 - 1 paper accepted at [MLMI 2020](https://mlmi2020.web.unc.edu/) - July 30, 2020
-- 2 papers accepted at MICCAI 2020 - Congrats Xiaoxiao! - June 22, 2020
-- 1 early accept at MICCAI 2020 - Congrats Xiaoxiao! - May 18, 2020
