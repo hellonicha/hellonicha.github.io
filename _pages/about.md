@@ -17,7 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
-- Paper accepted by IEEE Transactions on Medical Imaging - Congrats Luyao! - May 15, 2021
+- [Paper](https://ieeexplore.ieee.org/document/9438949) accepted by IEEE Transactions on Medical Imaging - Congrats Luyao! - May 15, 2021
 - Workshop proposal on Interpretable Machine Learning in Healthcare accepted by ICML 2021 - April 3, 2021
 - Paper accepted to [IPMI 2021](http://ipmi2021.org/) - Congrats Juntang! - February 12, 2021
 - [Paper](https://openreview.net/forum?id=blfSjHeFM_e) accepted to ICLR 2021 - Congrats Juntang! - January 12, 2021
