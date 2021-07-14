@@ -17,7 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
-- Submission accepted for Mini Oral presentation at [2021 IEEE NSS MIC](https://nssmic.ieee.org/2021/) - Congrats Xueqi! - July 8, 2021
+- Submission accepted for Mini Oral presentation in the Student Paper Award Poster Competition session at [2021 IEEE NSS MIC](https://nssmic.ieee.org/2021/) - Congrats Xueqi! - July 8, 2021
 - [Paper](https://ieeexplore.ieee.org/document/9438949) accepted by IEEE Transactions on Medical Imaging - Congrats Luyao! - May 15, 2021
 - Workshop proposal on [Interpretable Machine Learning in Healthcare](https://sites.google.com/view/imlh2021/) accepted by ICML 2021 - April 3, 2021
 - [Paper](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_5) accepted to [IPMI 2021](http://ipmi2021.org/) - Congrats Juntang! - February 12, 2021
