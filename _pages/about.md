@@ -17,6 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- Honorable Mention Outstanding Reviewer at [MICCAI 2021](https://www.miccai2021.org/en/MICCAI-2021-OUTSTANDING-REVIEWER-AWARDS.html), given to ~6% of reviewers
 - Honorable Mention Reviewer Award at [MIDL 2021](https://2021.midl.io/) - thanks to MIDL folks for putting together a great meeting! 
 - Submission accepted for Mini Oral presentation in the Student Paper Award Poster Competition session at [2021 IEEE NSS MIC](https://nssmic.ieee.org/2021/) - Congrats Xueqi! - July 8, 2021
 - [Paper](https://ieeexplore.ieee.org/document/9438949) accepted by IEEE Transactions on Medical Imaging - Congrats Luyao! - May 15, 2021
