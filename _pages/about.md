@@ -17,6 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- Paper accepted at NeurIPS 2021 - Congrats Juntang! - September 28,2021
 - Honorable Mention Outstanding Reviewer at [MICCAI 2021](https://www.miccai2021.org/en/MICCAI-2021-OUTSTANDING-REVIEWER-AWARDS.html), given to ~6% of reviewers
 - Honorable Mention Reviewer Award at [MIDL 2021](https://2021.midl.io/) - thanks to MIDL folks for putting together a great meeting! 
 - Submission accepted for Mini Oral presentation in the Student Paper Award Poster Competition session at [2021 IEEE NSS MIC](https://nssmic.ieee.org/2021/) - Congrats Xueqi! - July 8, 2021
@@ -28,4 +29,3 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 - Paper accepted at [ISBI 2021](https://biomedicalimaging.org/2021/) - Congrats Shiyu on your first conference paper! - January 8, 2021
 - Best [Paper](https://link.springer.com/chapter/10.1007/978-3-030-60548-3_6) Award at [DART 2020](https://sites.google.com/view/dart2020/)! Congratulations Junlin! - October 8, 2020
 - Our paper "AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients" was accepted for Spotlight Presentation at NeurIPS 2020 - Congratulations [Juntang](https://juntang-zhuang.github.io/)! - September 25, 2020
-- 1 paper accepted at [MLMI 2020](https://mlmi2020.web.unc.edu/) - July 30, 2020
