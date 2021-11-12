@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find all my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+The full list of my articles can also be found on my [Google Scholar profile].(https://scholar.google.com/citations?user=HrzdtUUAAAAJ&hl=en)
 
 Published articles are linked to in the titles when available. Public author versions are linked to in the titles (if in press), AAM (author accepted manuscript) or Preprint.
 
