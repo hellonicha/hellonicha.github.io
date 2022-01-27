@@ -17,6 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- [Paper](https://openreview.net/forum?id=edONMAnhLu-) accepted at ICLR 2022 - Congrats Juntang! - January 20, 2022
 - Congratulations to Xueqi for winning the 2nd Best Poster Award at IEEE NSS MIC 2021! - October 23, 2021
 - [Paper](https://arxiv.org/abs/2110.05454) accepted at NeurIPS 2021 - Congrats Juntang! - September 28, 2021
 - Honorable Mention Outstanding Reviewer at [MICCAI 2021](https://www.miccai2021.org/en/MICCAI-2021-OUTSTANDING-REVIEWER-AWARDS.html), given to ~6% of reviewers - September 30, 2021
