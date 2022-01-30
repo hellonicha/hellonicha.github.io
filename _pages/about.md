@@ -18,10 +18,12 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ## Recent Happenings
 - [Paper](https://openreview.net/forum?id=edONMAnhLu-) accepted at ICLR 2022 - Congrats Juntang! - January 20, 2022
+- Happy to serve on the Technical Committee for [MIDL 2022](https://2022.midl.io/) - December 1, 2021
 - Congratulations to Xueqi for winning the 2nd Best Poster Award at IEEE NSS MIC 2021! - October 23, 2021
-- [Paper](https://arxiv.org/abs/2110.05454) accepted at NeurIPS 2021 - Congrats Juntang! - September 28, 2021
 - Honorable Mention Outstanding Reviewer at [MICCAI 2021](https://www.miccai2021.org/en/MICCAI-2021-OUTSTANDING-REVIEWER-AWARDS.html), given to ~6% of reviewers - September 30, 2021
+- [Paper](https://arxiv.org/abs/2110.05454) accepted at NeurIPS 2021 - Congrats Juntang! - September 28, 2021
 - Honorable Mention Reviewer Award at [MIDL 2021](https://2021.midl.io/) - thanks to MIDL folks for putting together a great meeting! 
+- [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521002784) accepted by Medical Image Analysis - Congrats Xiaoxiao! - September 10, 2021
 - Submission accepted for Mini Oral presentation in the Student Paper Award Poster Competition session at [2021 IEEE NSS MIC](https://nssmic.ieee.org/2021/) - Congrats Xueqi! - July 8, 2021
 - [Paper](https://ieeexplore.ieee.org/document/9438949) accepted by IEEE Transactions on Medical Imaging - Congrats Luyao! - May 15, 2021
 - Workshop proposal on [Interpretable Machine Learning in Healthcare](https://sites.google.com/view/imlh2021/) accepted by ICML 2021 - April 3, 2021
