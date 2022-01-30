@@ -24,6 +24,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 - [Paper](https://arxiv.org/abs/2110.05454) accepted at NeurIPS 2021 - Congrats Juntang! - September 28, 2021
 - Honorable Mention Reviewer Award at [MIDL 2021](https://2021.midl.io/) - thanks to MIDL folks for putting together a great meeting! 
 - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521002784) accepted by Medical Image Analysis - Congrats Xiaoxiao! - September 10, 2021
+- Happy to serve as an Associate Editor for [Frontiers in Neuroscience, Brain Imaging Methods Section](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods) - July 26, 2021
 - Submission accepted for Mini Oral presentation in the Student Paper Award Poster Competition session at [2021 IEEE NSS MIC](https://nssmic.ieee.org/2021/) - Congrats Xueqi! - July 8, 2021
 - [Paper](https://ieeexplore.ieee.org/document/9438949) accepted by IEEE Transactions on Medical Imaging - Congrats Luyao! - May 15, 2021
 - Workshop proposal on [Interpretable Machine Learning in Healthcare](https://sites.google.com/view/imlh2021/) accepted by ICML 2021 - April 3, 2021
