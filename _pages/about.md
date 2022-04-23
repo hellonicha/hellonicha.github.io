@@ -17,6 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- Abstract accepted for Oral Presentation at SNMMI 2022 - Congrats Xueqi! - April 8, 2022
 - [Paper](https://openreview.net/forum?id=edONMAnhLu-) accepted at ICLR 2022 - Congrats Juntang! - January 20, 2022
 - Happy to serve on the Technical Committee for [MIDL 2022](https://2022.midl.io/) - December 1, 2021
 - Congratulations to Xueqi for winning the 2nd Best Poster Award at IEEE NSS MIC 2021! - October 23, 2021
