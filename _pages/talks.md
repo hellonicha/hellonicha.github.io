@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [Introduction to Deep Learning](https://www.coursera.org/learn/introduction-to-medical-software)  
+*Introduction to Medical Software Course*  
+Coursera, Online  
+October 2021
+
 - Deep Learning from fMRI with Application to Autism Spectrum Disorder  
 *BME Seminar Series*  
 Department of Biomedical Engineering, Yale University, New Haven, CT (via Zoom)  
