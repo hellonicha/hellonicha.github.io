@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Machine Learning for Medical Image Analysis  
+*Yale BME Mini-Symposium*  
+Department of Biomedical Engineering, Yale University, New Haven, CT  
+May 2022
+
 - [Introduction to Deep Learning](https://www.coursera.org/learn/introduction-to-medical-software)  
 *Introduction to Medical Software Course*  
 Coursera, Online  
