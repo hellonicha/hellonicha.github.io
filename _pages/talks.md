@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Temporal Medical Image Analysis: Brain Biomarkers to Body Motion Correction  
+*Computational Neuroimage Science Laboratory*  
+Stanford University, Stanford, CA (via Zoom)  
+May 2022
+
 - Machine Learning for Medical Image Analysis  
 *Yale BME Mini-Symposium*  
 Department of Biomedical Engineering, Yale University, New Haven, CT  
