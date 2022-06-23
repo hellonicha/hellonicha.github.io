@@ -17,6 +17,8 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- [Paper](https://arxiv.org/abs/2202.12715) on early-stage Parkinson's disease characterization accepted by Frontiers in Neuroimaging - June 22, 2022
+- Congratulations to Xueqi for winning a MICCAI 2022 Student Travel Award! - June 20, 2022 
 - Paper provisionally accepted (top 13%) for MICCAI 2022 - Congrats Xueqi! - May 4, 2022
 - [Paper](https://arxiv.org/pdf/2112.10166) accepted by IEEE Transactions on Medical Imaging - Congrats to Xiaoxiao and her team! - May 2, 2022
 - Happy to join the organizing committee for the MICCAI Workshop on [Machine Learning in Clinical Neuroimaging (MLCN 2022)](https://mlcnws.com/) - April 25, 2022
