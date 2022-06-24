@@ -17,6 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- [Paper](https://arxiv.org/abs/2206.06341) on motion correction for whole-body dynamic PET accepted by Medical Image Analysis - Nice work Xueqi! - June 24, 2022
 - [Paper](https://arxiv.org/abs/2202.12715) on early-stage Parkinson's disease characterization accepted by Frontiers in Neuroimaging - June 22, 2022
 - Congratulations to Xueqi for winning a MICCAI 2022 Student Travel Award! - June 20, 2022 
 - Paper provisionally accepted (top 13%) for MICCAI 2022 - Congrats Xueqi! - May 4, 2022
