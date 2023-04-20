@@ -18,6 +18,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ## Recent Happenings
 - Abstract accepted for presentation at SNMMI 2023 - Congrats Xueqi! - March 24, 2023
+- Our workshop on [Machine Learning in Clinical Neuroimaging (MLCN)](https://mlcnworkshop.github.io/) has been accepted for MICCAI 2023 - February 28, 2023
 - [Paper](https://ieeexplore.ieee.org/abstract/document/9976893) accepted for publication in IEEE Transactions on Radiation and Plasma Medical Sciences - Congrats Xueqi! - December 5, 2022 
 - Honored to be selected for a [MICCAI 2022 Outstanding Reviewer Award](https://conferences.miccai.org/2022/en/OUTSTANDING-REVIEWER-AWARDS.html) - July 19, 2022
 - [Paper](https://arxiv.org/abs/2206.06341) on motion correction for whole-body dynamic PET accepted by Medical Image Analysis - Nice work Xueqi! - June 24, 2022
