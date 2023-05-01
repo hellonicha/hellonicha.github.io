@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Deep Learning Applications in Medical Image Analysis  
+*Computational and Data Science Colloquium*  
+Southern Connecticut State University, New Haven, CT  
+April 2023
+
 - Temporal Medical Image Analysis: Brain Biomarkers to Body Motion Correction  
 *Computational Neuroimage Science Laboratory*  
 Stanford University, Stanford, CA (via Zoom)  
