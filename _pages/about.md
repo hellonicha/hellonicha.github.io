@@ -17,6 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
+- [Short paper](https://openreview.net/forum?id=B97_xzj69FK) accepted for presentation at MIDL 2023 - Congrats Allen! - April 28, 2023
 - Abstract accepted for presentation at SNMMI 2023 - Congrats Xueqi! - March 24, 2023
 - Our workshop on [Machine Learning in Clinical Neuroimaging (MLCN)](https://mlcnworkshop.github.io/) has been accepted for MICCAI 2023 - February 28, 2023
 - [Paper](https://ieeexplore.ieee.org/abstract/document/9976893) accepted for publication in IEEE Transactions on Radiation and Plasma Medical Sciences - Congrats Xueqi! - December 5, 2022 
