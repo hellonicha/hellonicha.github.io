@@ -17,13 +17,14 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Announcements
-- [Submission site](https://cmt3.research.microsoft.com/MLCN2023) for [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/) is open! MICCAI-style papers focusing on neuroimaging analysis methods or translational applications welcome. **Submission deadline is June 25, 2023**. Visit our website for details or please contact me with questions.
+<img align="left" src="/files/mlcn_logo_cmt.png">[Submission site](https://cmt3.research.microsoft.com/MLCN2023) for [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/) is open!  MICCAI-style papers focusing on neuroimaging analysis methods or translational applications welcome. **Submission deadline is June 25, 2023**. Visit our website for details or please contact me with questions. 
+
 
 ------
 
 ## Recent Happenings
 - [Short paper](https://openreview.net/forum?id=B97_xzj69FK) accepted for presentation at MIDL 2023 - Congrats Allen! - April 28, 2023
-- Awarded an NIH R21 Trailblazer grant on "Interpretable Deep Learning Models for Analysis of Longitudinal 3D Mammography Screenings" - excited to begin this new line of research! - March 27, 2023
+- Awarded an NIH NIBIB R21 Trailblazer grant on "Interpretable Deep Learning Models for Analysis of Longitudinal 3D Mammography Screenings" - excited to begin this new line of research! - March 27, 2023
 - Abstract accepted for presentation at SNMMI 2023 - Congrats Xueqi! - March 24, 2023
 - Our workshop on [Machine Learning in Clinical Neuroimaging (MLCN)](https://mlcnworkshop.github.io/) has been accepted for MICCAI 2023 - February 28, 2023
 - [Paper](https://ieeexplore.ieee.org/abstract/document/9976893) accepted for publication in IEEE Transactions on Radiation and Plasma Medical Sciences - Congrats Xueqi! - December 5, 2022 
