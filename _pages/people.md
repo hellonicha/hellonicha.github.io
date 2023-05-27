@@ -25,3 +25,7 @@ I have had the great privilege of working with the creative, hardworking, inspir
 - Pam Ventola, Associate Professor of the Child Study Center, Yale University
 - Abha Gupta, Associate Professor of Pediatrics, Neuroscience, and Child Study Center, Yale University
 - Jennifer M. Kwan, Assistant Professor of Cardiovascular Medicine, Yale University
+
+## Past Collaborators
+- Hemant Tagare, Professor of Radiology & Biomedical Imaging and Biomedical Engineering, Yale University
+- Sule Tinaz, Assistant Professor of Neurology, Yale University
