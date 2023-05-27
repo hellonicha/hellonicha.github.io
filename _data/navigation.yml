@@ -9,6 +9,9 @@ main:
 
   - title: "Talks"
     url: /talks/    
+  
+  - title: "People"
+    url: /people/   
     
   - title: "CV"
     url: /files/Yale_CV_Dvornek_public_13042023.pdf
