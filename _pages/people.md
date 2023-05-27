@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "People"
+permalink: /people/
 author_profile: true
 ---
 
@@ -20,7 +20,7 @@ I have had the great privilege of working with the creative, hardworking, inspir
 - Yin Guo, MS 2019 --> PhD Student at University of Washington
 
 ## Close Collaborators
-- James S. Duncan, Professor of Radiology & Biomedical Imaging, Biomedical Engineering, Electrical Engineering, Yale University
+- [James S. Duncan](https://medicine.yale.edu/profile/james-duncan/), Professor of Radiology & Biomedical Imaging, Biomedical Engineering, Electrical Engineering, Yale University
 - Chi Liu, Associate Professor of Radiology & Biomedical imaging and Biomedical Engineering, Yale University
 - Pam Ventola, Associate Professor of the Child Study Center, Yale University
 - Abha Gupta, Associate Professor of Pediatrics, Neuroscience, and Child Study Center, Yale University
