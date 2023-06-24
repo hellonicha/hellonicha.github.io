@@ -17,7 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Announcements
-<img align="left" style="padding: 0px 10px 0px 0px; float: left;" src="/files/mlcn_logo_cmt.png" /> [Submission site](https://cmt3.research.microsoft.com/MLCN2023) for [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/) is open!  MICCAI-style papers focusing on neuroimaging analysis methods or translational applications welcome. **Submission deadline is June 25, 2023**. Visit our website for details or please contact me with questions.
+<img align="left" style="padding: 0px 10px 0px 0px; float: left;" src="/files/mlcn_logo_cmt.png" /> [Submission site](https://cmt3.research.microsoft.com/MLCN2023) for [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/) is open!  MICCAI-style papers focusing on neuroimaging analysis methods or translational applications welcome. **Submission deadline is June ~25~ 30, 2023**. Visit our website for details or please contact me with questions.
 
 ------
 
