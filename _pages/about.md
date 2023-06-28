@@ -22,7 +22,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
-- Paper on "MCP-Net: Introducing Patlak Loss Optimization to Whole-body Dynamic PET Inter-frame Motion Correction" accepted by IEEE Transactions on Medical Imaging - Congrats Xueqi! - June 24, 2023
+- [Paper](https://ieeexplore.ieee.org/document/10164187) accepted for publication by IEEE Transactions on Medical Imaging - Congrats Xueqi! - June 24, 2023
 - [Article](https://www.rsipvision.com/ComputerVisionNews-2023May/44/) in Computer Vision News highlighted our MLCN workshop at MICCAI - May 03, 2023
 - [Short paper](https://openreview.net/forum?id=B97_xzj69FK) accepted for presentation at MIDL 2023 - Congrats Allen! - April 28, 2023
 - Awarded an NIH NIBIB R21 Trailblazer grant on [Interpretable Deep Learning Models for Analysis of Longitudinal 3D Mammography Screenings](https://reporter.nih.gov/search/O_K3c9eiFkCe987JO0iFPA/project-details/10667745) - excited to begin this new line of research! - March 27, 2023
