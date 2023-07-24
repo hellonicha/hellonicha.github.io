@@ -10,14 +10,14 @@ redirect_from:
 
 *First things first* - My first name is pronounced "nee-cha." The C in my middle name stands for Chitphakdithai, pronounced "jit-puck-tie." You will find my older publications under this name. 
 
-I am a first-term assistant professor in the Department of Radiology & Biomedical Imaging at the Yale School of Medicine, with a secondary appointment in the Department of Biomedical Engineering at the Yale School of Engineering and Applied Sciences. I develop algorithms for medical image processing and analysis. My [current work](https://hellonicha.github.io/projects/) focuses on applications of deep learning for analysis of functional magnetic resonance imaging data and motion correction for dynamic PET imaging.
+I am an assistant professor in the Department of Radiology & Biomedical Imaging at the Yale School of Medicine, with a secondary appointment in the Department of Biomedical Engineering at the Yale School of Engineering and Applied Sciences. I develop algorithms for medical image processing and analysis. My [current work](https://hellonicha.github.io/projects/) focuses on applications of deep learning for analysis of functional magnetic resonance imaging data, motion correction for dynamic PET imaging, and analysis of digital breast tomosynthesis (3D mammography) for breast cancer detection.
 
 I am a biomedical engineer by training, from my undergraduate studies at Johns Hopkins to my PhD research under [James S. Duncan](https://medicine.yale.edu/diagnosticradiology/people/james_duncan-1.profile) at Yale. In my research, I have utilized techniques spanning from Bayesian inference to modern machine learning. Biomedical applications of my work have varied from [registration of brain images](https://link.springer.com/content/pdf/10.1007/978-3-642-15705-9_45.pdf), to [particle reconstruction for cryo-electron microscopy](https://www.sciencedirect.com/science/article/pii/S1047847715000714), to [functional neuroimage analysis](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67389-9_42.pdf) and [neuroprediction](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1_38.pdf).
 
 ------
 
 ## Announcements
-<img align="left" style="padding: 0px 10px 0px 0px; float: left;" src="/files/mlcn_logo_cmt.png" /> [Submission site](https://cmt3.research.microsoft.com/MLCN2023) for [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/) is open!  MICCAI-style papers focusing on neuroimaging analysis methods or translational applications welcome. **Submission deadline extended to June 30, 2023**. Visit our website for details or please contact me with questions.
+<img align="left" style="padding: 0px 10px 0px 0px; float: left;" src="/files/mlcn_logo_cmt.png" /> [Submission site](https://cmt3.research.microsoft.com/MLCN2023) for [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/) is open!  MICCAI-style papers focusing on neuroimaging analysis methods or translational applications welcome. **Submission deadline extended to July 4, 2023**. Visit our website for details or please contact me with questions.
 
 ------
 
