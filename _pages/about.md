@@ -17,11 +17,13 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Announcements
-<img align="left" style="padding: 0px 10px 0px 0px; float: left;" src="/files/mlcn_logo_cmt.png" /> [Submission site](https://cmt3.research.microsoft.com/MLCN2023) for [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/) is open!  MICCAI-style papers focusing on neuroimaging analysis methods or translational applications welcome. **Submission deadline extended to July 4, 2023**. Visit our website for details or please contact me with questions.
+<img align="left" style="padding: 0px 10px 0px 0px; float: left;" src="/files/mlcn_logo_cmt.png" /> Join us in Vancouver or virtually on Sunday, October 8 at the MICCAI workshop on [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/)!  Early [registration](https://conferences.miccai.org/2023/en/REGISTRATION.html) ends August 20. Visit our website for details or please contact me with questions.
 
 ------
 
 ## Recent Happenings
+- 1 paper accepted for presentation at SASHIMI 2023 - Congrats Xueqi! - August 8, 2023
+- 2 papers accepted for presentation at MLCN 2023 - Congrats to Jiyao on your first conference paper! - July 26, 2023
 - [Paper](https://ieeexplore.ieee.org/document/10164187) accepted for publication by IEEE Transactions on Medical Imaging - Congrats Xueqi! - June 24, 2023
 - [Article](https://www.rsipvision.com/ComputerVisionNews-2023May/44/) in Computer Vision News highlighted our MLCN workshop at MICCAI - May 03, 2023
 - [Short paper](https://openreview.net/forum?id=B97_xzj69FK) accepted for presentation at MIDL 2023 - Congrats Allen! - April 28, 2023
