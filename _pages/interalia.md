@@ -14,9 +14,11 @@ Among other things...
     - Need to read to keep up with my 8 year old.
 
 ## Yale Medical Symphony Orchestra
-Fall concert repertoire:
+Violin is my orchestra instrument (2nd violins are 1st in my heart).  
+Fall concert coming up Nov. 17:
 - _Finlandia_ by Sibelius
 - _Petite Suite de Concert_ by Coleridge-Taylor
 - _Symphony No. 2_ by Sibelius
+
 
 
