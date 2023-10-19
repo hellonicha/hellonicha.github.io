@@ -16,12 +16,8 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ------
 
-## Announcements
-<img align="left" style="padding: 0px 10px 0px 0px; float: left;" src="/files/mlcn_logo_cmt.png" /> Join us in Vancouver or virtually on Sunday, October 8 at the MICCAI workshop on [Machine Learning in Clinical Neuroimaging (MLCN) 2023](https://mlcnworkshop.github.io/)!  Early [registration](https://conferences.miccai.org/2023/en/REGISTRATION.html) has been extended to __August 27__! Visit our website for details or please contact me with questions.
-
-------
-
 ## Recent Happenings
+- Congratulations to Xueqi for winning the MSB Thesis Madness Competition at MICCAI! - October 11, 2023
 - 1 paper accepted for presentation at SASHIMI 2023 - Congrats Xueqi! - August 8, 2023
 - 1 abstract accepted for presentation at AHA23 - Congrats Allen! - August 8, 2023
 - 2 papers accepted for presentation at MLCN 2023 - Congrats to Jiyao on your first conference paper! - July 26, 2023
