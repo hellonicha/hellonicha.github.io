@@ -22,6 +22,7 @@ I have recently been receiving many emails inquiring about MS/PhD positions. If 
 ------
 
 ## Recent Happenings
+- Happy to be joining the 2023 Women in MICCAI Board as Honorary Elections Officer - looking forward to working with an inspiring group of women! - October 2023
 - Congratulations to Xueqi for winning the MSB Thesis Madness Competition at MICCAI! - October 11, 2023
 - 1 paper accepted for presentation at SASHIMI 2023 - Congrats Xueqi! - August 8, 2023
 - 1 abstract accepted for presentation at AHA23 - Congrats Allen! - August 8, 2023
