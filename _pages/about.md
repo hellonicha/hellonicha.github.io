@@ -22,8 +22,11 @@ I have recently been receiving many emails inquiring about MS/PhD positions. If 
 ------
 
 ## Recent Happenings
+- Happy to join the Editorial Board of the Computerized Medical Imaging and Graphics (CMIG) journal - February 12, 2024
 - 2 papers accepted to ISBI 2024 - Congratulations to Yuexi and Camille! - February 2, 2024
 - Happy to serve as an Area Chair for MICCAI 2024 - February 1, 2024
+- Happy to serve on the Program Board as an Area Chair for MIDL 2024 - January 24, 2024
+- Happy to join the Editorial Board of the SPIE Journal of Medical Imaging (JMI) - January 9, 2024
 - Happy to be joining the 2023 Women in MICCAI Board as Honorary Elections Officer - looking forward to working with an inspiring group of women! - October 2023
 - Congratulations to Xueqi for winning the MSB Thesis Madness Competition at MICCAI! - October 11, 2023
 - 1 paper accepted for presentation at SASHIMI 2023 - Congrats Xueqi! - August 8, 2023
