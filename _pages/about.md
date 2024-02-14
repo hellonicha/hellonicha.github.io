@@ -15,11 +15,6 @@ I am an assistant professor in the Department of Radiology & Biomedical Imaging 
 I am a biomedical engineer by training, from my undergraduate studies at Johns Hopkins to my PhD research under [James S. Duncan](https://medicine.yale.edu/diagnosticradiology/people/james_duncan-1.profile) at Yale. In my research, I have utilized techniques spanning from Bayesian inference to modern machine learning. Biomedical applications of my work have varied from [registration of brain images](https://link.springer.com/content/pdf/10.1007/978-3-642-15705-9_45.pdf), to [particle reconstruction for cryo-electron microscopy](https://www.sciencedirect.com/science/article/pii/S1047847715000714), to [functional neuroimage analysis](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67389-9_42.pdf) and [neuroprediction](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1_38.pdf).
 
 ------
-## Announcements
-
-I have recently been receiving many emails inquiring about MS/PhD positions. If you are interested in joining us, please apply to the Yale Biomedical Engineering (BME) graduate program. More about the Yale Graduate School admissions and applications process can be found [here](https://gsas.yale.edu/admissions), and more on the Yale BME graduate program can be found [here](https://seas.yale.edu/departments/biomedical-engineering/graduate-study). While I can answer general questions about the BME program or my potential projects, a BME admissions committee will evaluate the applications to decide on admissions. 
-
-------
 
 ## Recent Happenings
 - Happy to join the Editorial Board of the Computerized Medical Imaging and Graphics (CMIG) journal - February 12, 2024
