@@ -9,11 +9,11 @@ I have had the great privilege of working with the creative, driven, inspiring p
 
 ## Current Mentees
 - Xueqi Guo, BME PhD Candidate (co-advised with Dr. Chi Liu, 2020-)
-- Allen Ryu, CS Undergrad (2022-)
 - Yuexi Du, BME PhD Candidate (2023-)
 - Yinchi Zhou, BME PhD Candidate (2024-)
 
 ## Past Mentees
+- Allen Ryu, BS 2023
 - Juntang Zhuang (close non-primary mentee), PhD 2022 --> Researcher at OpenAI
 - [Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/) (close non-primary mentee), PhD 2020 --> Postdoc at Princeton University
 - Shiyu Wang, MS 2020 and postgraduate trainee --> PhD Student at Vanderbilt University 
