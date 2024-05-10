@@ -16,8 +16,8 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
-- Paper accepted by IEEE TMI - Congrats Xueqi! - May 2, 2024
-- Many congratulations to Xueqi for the succcessful defense of her dissertation! - February 21, 2024
+- [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001154) accepted for publication by Medical Image Analysis - Congrats Xueqi! - May 2, 2024
+- Many congratulations to Xueqi for the succcessful defense of her dissertation!! - February 21, 2024
 - Happy to join the Editorial Board of the Computerized Medical Imaging and Graphics (CMIG) journal - February 12, 2024
 - 2 papers accepted to ISBI 2024 - Congratulations to Yuexi and Camille! - February 2, 2024
 - Happy to serve as an Area Chair for MICCAI 2024 - February 1, 2024
