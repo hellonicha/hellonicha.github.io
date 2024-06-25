@@ -15,7 +15,24 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ------
 
+## Announcements
+
+The submission deadline for the __7th International Workshop on Machine Learning in Clinical Neuroimaging (MLCN 2024)__ has been extended! 
+MLCN aims to bring together experts from the fields of machine learning and clinical neuroimaging to explore innovative solutions and advancements in this rapidly evolving domain. The workshop will be held as a satellite event of MICCAI in Marrakesh, Morocco. Papers will be published in workshop proceedings in Lecture Notes in Computer Science. We look forward to your submissions!
+
+Important Info:
+* Paper submission deadline (extended, new date): June 29, 2024
+* Notification of acceptance: July 15, 2024
+* Camera-ready submission: Late July 2024
+* Workshop date: October 6, 2024
+
+* Website:  [https://mlcnworkshop.github.io](https://mlcnworkshop.github.io)
+* Submission site: [http://cmt3.research.microsoft.com/MLCN2024](http://cmt3.research.microsoft.com/MLCN2024)
+
+------
+
 ## Recent Happenings
+- 1 paper accepted for presentation at MICCAI 2024 - Congrats to Yuexi on your first MICCAI paper! - June 17, 2024
 - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001154) accepted for publication by Medical Image Analysis - Congrats Xueqi! - May 2, 2024
 - Many congratulations to Xueqi for the succcessful defense of her dissertation!! - February 21, 2024
 - Happy to join the Editorial Board of the Computerized Medical Imaging and Graphics (CMIG) journal - February 12, 2024
