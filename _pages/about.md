@@ -23,8 +23,8 @@ MLCN aims to bring together experts from the fields of machine learning and clin
 Important Info:
 * Paper submission deadline (extended, new date): June 29, 2024
 * Notification of acceptance: July 15, 2024
-* Camera-ready submission: Late July 2024
-* Workshop date: October 6, 2024
+* Camera-ready submission: August 8, 2024
+* __Workshop date: October 10, 2024__
 
 * Website:  [https://mlcnworkshop.github.io](https://mlcnworkshop.github.io)
 * Submission site: [http://cmt3.research.microsoft.com/MLCN2024](http://cmt3.research.microsoft.com/MLCN2024)
@@ -32,6 +32,7 @@ Important Info:
 ------
 
 ## Recent Happenings
+- 1 paper accepted for presentation at MLCN 2024 - Congrats Yinchi on your first workshop paper! - July 15, 2024
 - 1 paper accepted for presentation at MICCAI 2024 - Congrats to Yuexi on your first MICCAI paper! - June 17, 2024
 - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001154) accepted for publication by Medical Image Analysis - Congrats Xueqi! - May 2, 2024
 - Many congratulations to Xueqi for the succcessful defense of her dissertation!! - February 21, 2024
