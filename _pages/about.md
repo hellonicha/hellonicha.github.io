@@ -33,7 +33,7 @@ Important Info:
 
 ## Recent Happenings
 - 1 paper accepted for presentation at MLCN 2024 - Congrats Yinchi on your first workshop paper! - July 15, 2024
-- 1 paper accepted for presentation at MICCAI 2024 - Congrats to Yuexi on your first MICCAI paper! - June 17, 2024
+- 1 [paper](https://arxiv.org/abs/2407.21011) accepted for presentation at MICCAI 2024 - Congrats to Yuexi on your first MICCAI paper! - June 17, 2024
 - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001154) accepted for publication by Medical Image Analysis - Congrats Xueqi! - May 2, 2024
 - Many congratulations to Xueqi for the succcessful defense of her dissertation!! - February 21, 2024
 - Happy to join the Editorial Board of the Computerized Medical Imaging and Graphics (CMIG) journal - February 12, 2024
