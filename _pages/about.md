@@ -17,7 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ## Announcements
 
-**We are hiring!**  Looking for a postdoc to work with us on developing AI approaches for predicting cardiovascular conditions and outcomes from cardiac MRI. Ideal candidate will have a PhD in computer science / engineering / related field, extensive experience developing and training machine learning models on large image datasets, and immediate availability. Please see this [flyer](https://github.com/hellonicha/hellonicha.github.io/blob/master/files/Postdoc_Ad_cMRI_CHIP.pdf) for more info and feel free to contact me with any questions.
+**We are hiring!**  Looking for a postdoc to work with us on developing AI approaches for predicting cardiovascular conditions and outcomes from cardiac MRI. Ideal candidate will have a PhD in computer science / engineering / related field, extensive experience developing and training machine learning models on large image datasets, and immediate availability. Please see this [flyer](/files/Postdoc_Ad_cMRI_CHIP.pdf) for more info and feel free to contact me with any questions.
 
 ------
 
