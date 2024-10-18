@@ -17,17 +17,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ## Announcements
 
-The submission deadline for the __7th International Workshop on Machine Learning in Clinical Neuroimaging (MLCN 2024)__ has been extended! 
-MLCN aims to bring together experts from the fields of machine learning and clinical neuroimaging to explore innovative solutions and advancements in this rapidly evolving domain. The workshop will be held as a satellite event of MICCAI in Marrakesh, Morocco. Papers will be published in workshop proceedings in Lecture Notes in Computer Science. We look forward to your submissions!
-
-Important Info:
-* Paper submission deadline (extended, new date): June 29, 2024
-* Notification of acceptance: July 15, 2024
-* Camera-ready submission: August 8, 2024
-* __Workshop date: October 10, 2024__
-
-* Website:  [https://mlcnworkshop.github.io](https://mlcnworkshop.github.io)
-* Submission site: [http://cmt3.research.microsoft.com/MLCN2024](http://cmt3.research.microsoft.com/MLCN2024)
+**We are hiring!**  Looking for a postdoc to work with us on developing AI approaches for predicting cardiovascular conditions and outcomes from cardiac MRI. Ideal candidate will have a PhD in computer science / engineering / related field, extensive experience developing and training machine learning models on large image datasets, and immediate availability. Please see this [flyer](https://github.com/hellonicha/hellonicha.github.io/blob/master/files/Postdoc_Ad_cMRI_CHIP.pdf) for more info and feel free to contact me with any questions.
 
 ------
 
