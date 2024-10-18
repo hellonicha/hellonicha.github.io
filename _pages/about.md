@@ -22,7 +22,8 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
-- 1 paper accepted for presentation at MLCN 2024 - Congrats Yinchi on your first workshop paper! - July 15, 2024
+- Congratulations to Yuexi for winning Best Overall Performer by placing [1st](https://codalab.lisn.upsaclay.fr/competitions/18603#results) and [3rd](https://codalab.lisn.upsaclay.fr/competitions/18601#results) in 2 out of 3 tasks at the [CXR-LT Challenge](https://bionlplab.github.io/2024_MICCAI_CXRLT/) at MICCAI 2024! - September 23, 2024
+- 1 [paper](https://arxiv.org/abs/2409.12304) accepted for presentation at MLCN 2024 - Congrats Yinchi on your first workshop paper! - July 15, 2024
 - 1 [paper](https://arxiv.org/abs/2407.21011) accepted for presentation at MICCAI 2024 - Congrats to Yuexi on your first MICCAI paper! - June 17, 2024
 - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001154) accepted for publication by Medical Image Analysis - Congrats Xueqi! - May 2, 2024
 - Many congratulations to Xueqi for the succcessful defense of her dissertation!! - February 21, 2024
