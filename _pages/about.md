@@ -17,11 +17,13 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ## Announcements
 
-**We are hiring!**  Looking for a postdoc to work with us on developing AI approaches for predicting cardiovascular conditions and outcomes from cardiac MRI. Ideal candidate will have a PhD in computer science / engineering / related field, extensive experience developing and training machine learning models on large image datasets, and immediate availability. Please see this [flyer](/files/Postdoc_Ad_cMRI_CHIP.pdf) for more info and feel free to contact me with any questions.
+
 
 ------
 
 ## Recent Happenings
+- 1 paper accepted to IPMI 2025 - congrats Yuexi on your first IPMI paper! - February 13, 2025
+- 4 papers accepted to ISBI 2025 - congrats to [Yuexi](https://arxiv.org/abs/2501.09753), Camille, Jiyao, and [Jiazhen](https://arxiv.org/abs/2501.14592)! - January 2, 2025
 - Congratulations to Yuexi for winning Best Overall Performer by placing [1st](https://codalab.lisn.upsaclay.fr/competitions/18603#results) and [3rd](https://codalab.lisn.upsaclay.fr/competitions/18601#results) in 2 out of 3 tasks at the [CXR-LT Challenge](https://bionlplab.github.io/2024_MICCAI_CXRLT/) at MICCAI 2024! - September 23, 2024
 - 1 [paper](https://arxiv.org/abs/2409.12304) accepted for presentation at MLCN 2024 - Congrats Yinchi on your first workshop paper! - July 15, 2024
 - 1 [paper](https://arxiv.org/abs/2407.21011) accepted for presentation at MICCAI 2024 - Congrats to Yuexi on your first MICCAI paper! - June 17, 2024
