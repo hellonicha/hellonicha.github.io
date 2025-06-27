@@ -22,8 +22,11 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
-- 1 paper accepted to IPMI 2025 - congrats Yuexi on your first IPMI paper! - February 13, 2025
-- 4 papers accepted to ISBI 2025 - congrats to [Yuexi](https://arxiv.org/abs/2501.09753), Camille, Jiyao, and [Jiazhen](https://arxiv.org/abs/2501.14592)! - January 2, 2025
+- 1 paper accepted for presentation at MICCAI 2025 - Congrats Yuexi! - June 17, 2025
+- Many congratulations to Yuexi for winning the Runner-up Best Oral Paper Award at IPMI 2025!! - May 30, 2025
+- 2 papers accepted for presentation at MIDL 2025 - Congrats to [Jiyao](https://openreview.net/pdf?id=nKLCB8d3Ko) and [Joanna](https://openreview.net/pdf?id=nICgVRhKgG)! - March 27, 2025
+- 1 [paper](https://arxiv.org/pdf/2409.18119?) accepted to IPMI 2025 - congrats Yuexi on your first IPMI paper! - February 13, 2025
+- 4 papers accepted to ISBI 2025 - congrats to [Yuexi](https://arxiv.org/abs/2501.09753), [Camille](https://arxiv.org/pdf/2502.15595), [Jiyao](https://arxiv.org/pdf/2502.10662), and [Jiazhen](https://arxiv.org/abs/2501.14592)! - January 2, 2025
 - Congratulations to Yuexi for winning Best Overall Performer by placing [1st](https://codalab.lisn.upsaclay.fr/competitions/18603#results) and [3rd](https://codalab.lisn.upsaclay.fr/competitions/18601#results) in 2 out of 3 tasks at the [CXR-LT Challenge](https://bionlplab.github.io/2024_MICCAI_CXRLT/) at MICCAI 2024! - September 23, 2024
 - 1 [paper](https://arxiv.org/abs/2409.12304) accepted for presentation at MLCN 2024 - Congrats Yinchi on your first workshop paper! - July 15, 2024
 - 1 [paper](https://arxiv.org/abs/2407.21011) accepted for presentation at MICCAI 2024 - Congrats to Yuexi on your first MICCAI paper! - June 17, 2024
