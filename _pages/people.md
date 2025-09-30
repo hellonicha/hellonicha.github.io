@@ -10,6 +10,8 @@ I have had the great privilege of working with the creative, driven, inspiring p
 ## Current Mentees
 - Yuexi Du, BME PhD Candidate (2023-)
 - Yinchi Zhou, BME PhD Candidate (2024-)
+- Rui Wang, BME PhD Candidate (2025-)
+- Leya Barrientos, Postgraduate Associate (2025-)
 
 ## Past Mentees
 - Xueqi Guo, PhD 2024 --> AI Scientist at Siemens Healthineers
