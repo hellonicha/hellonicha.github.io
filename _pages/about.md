@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*First things first* - My first name is pronounced "nee-cha." The C in my middle name stands for Chitphakdithai, pronounced "jit-puck-tie." You will find my older publications under this name. 
+*First things first* - My first name is pronounced "nee-cha." The C in my middle name stands for Chitphakdithai, pronounced "jit-puck-tie." You will find my older publications under this name.
 
 I am an assistant professor in the Department of Radiology & Biomedical Imaging at the Yale School of Medicine, with a secondary appointment in the Department of Biomedical Engineering at the Yale School of Engineering and Applied Sciences. I develop algorithms for medical image processing and analysis. My [current work](https://hellonicha.github.io/projects/) focuses on applications of deep learning for analysis of functional magnetic resonance imaging data, motion correction for dynamic PET imaging, and analysis of digital breast tomosynthesis (3D mammography) for breast cancer detection.
 
