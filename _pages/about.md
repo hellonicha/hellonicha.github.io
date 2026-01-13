@@ -22,7 +22,7 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ------
 
 ## Recent Happenings
-- 3 papers accepted for presentation at ISBI 2026 - Congrats Rui, Jiyao, and Joanna! - January 13, 2026
+- 3 papers accepted for presentation at ISBI 2026 - Congrats [Rui](https://arxiv.org/abs/2511.16498), Jiyao, and Joanna! - January 13, 2026
 - 1 [paper](https://papers.miccai.org/miccai-2025/paper/2415_paper.pdf) accepted for presentation at MICCAI 2025 - Congrats Yuexi! - June 17, 2025
 - Many congratulations to Yuexi for winning the Runner-up Best Oral Paper Award at IPMI 2025!! - May 30, 2025
 - 2 papers accepted for presentation at MIDL 2025 - Congrats to [Jiyao](https://openreview.net/pdf?id=nKLCB8d3Ko) and [Joanna](https://openreview.net/pdf?id=nICgVRhKgG)! - March 27, 2025
