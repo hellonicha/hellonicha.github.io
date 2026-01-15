@@ -18,7 +18,6 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ## Announcements
 
 
-
 ------
 
 ## Recent Happenings
