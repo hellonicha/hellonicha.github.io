@@ -21,8 +21,8 @@ CALL FOR PAPERS - **8th International Workshop on Machine Learning in Clinical N
 @ MICCAI on October 1, 2026 in Strasbourg, France
 
 Welcoming 8-page MICCAI-style paper submissions on advances in machine learning methodology for analysis of neuroimaging data and applications of machine learning for clinical translation.  
-**Website**: https://mlcnworkshop.github.io  
-**Submission site**: https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN  
+**Website**: [https://mlcnworkshop.github.io](https://mlcnworkshop.github.io)  
+**Submission site**: [https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN)  
 **Submission deadline**: July 1, 2026
 
 ------
