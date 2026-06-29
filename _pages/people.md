@@ -11,9 +11,9 @@ I have had the great privilege of working with the creative, driven, inspiring p
 - Yuexi Du, BME PhD Candidate (2023-)
 - Yinchi Zhou, BME PhD Candidate (2024-)
 - Rui Wang, BME PhD Candidate (2025-)
-- Leya Barrientos, Postgraduate Associate (2025-)
 
 ## Past Mentees
+- Leya Barrientos, Postgraduate Associate 2025-2026 --> MS Student at University of Rochester
 - Xueqi Guo, PhD 2024 --> AI Scientist at Siemens Healthineers
 - Allen Ryu, BS 2023
 - Juntang Zhuang (close non-primary mentee), PhD 2022 --> Researcher at OpenAI
