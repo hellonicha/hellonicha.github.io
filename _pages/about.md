@@ -28,7 +28,7 @@ Welcoming 8-page MICCAI-style paper submissions on advances in machine learning 
 ------
 
 ## Recent Happenings
-- 1 more paper accepted for presentation at MICCAI 2026 - Congrats Yuexi! - June 12, 2026
+- 1 more [paper](https://arxiv.org/abs/2606.28537) accepted for presentation at MICCAI 2026 - Congrats Yuexi! - June 12, 2026
 - 2 papers early accepted for presentation at MICCAI 2026 - Congratulations [Junlin](https://arxiv.org/abs/2605.26376) and [Ziqi](https://arxiv.org/abs/2603.24968)! - May 7, 2026
 - 1 [paper](https://arxiv.org/abs/2603.01607) accepted for presentation at ICLR 2026 - Congrats Yuexi! - January 26, 2026
 - 3 papers accepted for presentation at ISBI 2026 - Congrats [Rui](https://arxiv.org/abs/2511.16498), [Jiyao](https://pmc.ncbi.nlm.nih.gov/articles/PMC13193235/), and [Joanna](https://arxiv.org/abs/2601.09130)! - January 13, 2026
