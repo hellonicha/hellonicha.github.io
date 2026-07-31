@@ -28,7 +28,8 @@ Welcoming 8-page MICCAI-style paper submissions on advances in machine learning 
 ------
 
 ## Recent Happenings
-- Congrats Jiyao and co-authors on the publication of your [paper in Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841526002902)!  - July 28, 2026
+- Happy to join the Editorial Board of Medical Image Analysis as an Associate Editor - July 31, 2026
+-  Congrats Jiyao and co-authors on the publication of your [paper in Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841526002902)!  - July 28, 2026
 - 1 more [paper](https://arxiv.org/abs/2606.28537) accepted for presentation at MICCAI 2026 - Congrats Yuexi! - June 12, 2026
 - 2 papers early accepted for presentation at MICCAI 2026 - Congratulations [Junlin](https://arxiv.org/abs/2605.26376) and [Ziqi](https://arxiv.org/abs/2603.24968)! - May 7, 2026
 - 1 [paper](https://arxiv.org/abs/2603.01607) accepted for presentation at ICLR 2026 - Congrats Yuexi! - January 26, 2026
