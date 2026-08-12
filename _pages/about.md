@@ -17,17 +17,18 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ## Announcements
 
-CALL FOR PAPERS - **8th International Workshop on Machine Learning in Clinical Neuroimaging (MLCN)**  
+📣 Join us at the **8th International Workshop on Machine Learning in Clinical Neuroimaging (MLCN)**  
 @ MICCAI on October 1, 2026 in Strasbourg, France
 
-Welcoming 8-page MICCAI-style paper submissions on advances in machine learning methodology for analysis of neuroimaging data and applications of machine learning for clinical translation.  
+🧠 Learn about and discuss advances in machine learning methodology for analysis of neuroimaging data and applications of machine learning for clinical translation.  
 **Website**: [https://mlcnworkshop.github.io](https://mlcnworkshop.github.io)  
-**Submission site**: [https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN)  
-**Submission deadline EXTENDED**: July 8, 2026 (EoD PDT)
+**Accepted papers soon to be available here**: [https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN)  
+
 
 ------
 
 ## Recent Happenings
+- 1 paper accepted in round 1 submission to WACV 2027 - Congrats Camille! - August 10, 2026
 - Happy to join the Editorial Board of Medical Image Analysis as an Associate Editor - July 31, 2026
 -  Congrats Jiyao and co-authors on the publication of your [paper in Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841526002902)!  - July 28, 2026
 - 1 more [paper](https://arxiv.org/abs/2606.28537) accepted for presentation at MICCAI 2026 - Congrats Yuexi! - June 12, 2026
