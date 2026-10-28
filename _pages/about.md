@@ -17,13 +17,9 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 
 ## Announcements
 
-📣 Join us at the **8th International Workshop on Machine Learning in Clinical Neuroimaging (MLCN)**  
-@ MICCAI on October 1, 2026 in Strasbourg, France
-
-🧠 Learn about and discuss advances in machine learning methodology for analysis of neuroimaging data and applications of machine learning for clinical translation.  
-**Website**: [https://mlcnworkshop.github.io](https://mlcnworkshop.github.io)  
-**Accepted papers soon to be available here**: [https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MLCN)  
-
+📣 **To Potential PhD/MS Applicants**:  
+Due to funding uncertainties, I am still undecided on whether I will be recruiting a PhD student for the incoming Fall 2027 class. I always welcome working with MS students.  
+If you are interested in working with me, please apply to the Yale BME PhD or MS Program. More information on the graduate program and application can be found [here](https://engineering.yale.edu/academic-study/departments/biomedical-engineering/graduate-study).
 
 ------
 
