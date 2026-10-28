@@ -11,6 +11,7 @@ I have had the great privilege of working with the creative, driven, inspiring p
 - Yuexi Du, BME PhD Candidate (2023-)
 - Yinchi Zhou, BME PhD Candidate (2024-)
 - Rui Wang, BME PhD Candidate (2025-)
+- Tami Bolodeoku, MRes Student in Developmental Neuroscience and Psychopathology (2026-)
 
 ## Past Mentees
 - Leya Barrientos, Postgraduate Associate 2025-2026 --> MS Student at University of Rochester
@@ -24,10 +25,11 @@ I have had the great privilege of working with the creative, driven, inspiring p
 
 ## Close Collaborators
 - [James S. Duncan](https://medicine.yale.edu/profile/james-duncan/), Professor of Radiology & Biomedical Imaging, Biomedical Engineering, Electrical Engineering, Yale University
-- [Chi Liu](https://medicine.yale.edu/profile/chi-liu/), Associate Professor of Radiology & Biomedical imaging and Biomedical Engineering, Yale University
+- [Chi Liu](https://medicine.yale.edu/profile/chi-liu/), Associate Professor of Radiology & Biomedical imaging and of Biomedical Engineering, Yale University
 - [Pam Ventola](https://medicine.yale.edu/profile/pamela-ventola/), Associate Professor of the Child Study Center, Yale University
 - [Abha Gupta](https://medicine.yale.edu/profile/abha-gupta/), Associate Professor of Pediatrics, Neuroscience, and Child Study Center, Yale University
 - [Jennifer M. Kwan](https://medicine.yale.edu/profile/jennifer-kwan/), Assistant Professor of Cardiovascular Medicine, Yale University
+- [Todd Constable](https://medicine.yale.edu/profile/todd-constable/), Professor of Radiology & Biomedical Imaging and of Neurosurgery, Yale University
 
 ## Past Collaborators
 - [Hemant Tagare](https://medicine.yale.edu/profile/hemant-tagare/), Professor of Radiology & Biomedical Imaging and Biomedical Engineering, Yale University
