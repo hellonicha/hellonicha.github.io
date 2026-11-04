@@ -18,15 +18,17 @@ I am a biomedical engineer by training, from my undergraduate studies at Johns H
 ## Announcements
 
 📣 **To Potential PhD/MS Applicants**:  
-Due to funding uncertainties, I am still undecided on whether I will be recruiting a PhD student for the incoming Fall 2027 class. I always welcome working with MS students.  
-If you are interested in working with me, please apply to the Yale BME PhD or MS Program. More information on the graduate program and application can be found [here](https://engineering.yale.edu/academic-study/departments/biomedical-engineering/graduate-study).
+- Due to funding uncertainties, I am still undecided on whether I will be recruiting a PhD student for the incoming Fall 2027 class. I would like to note that Yale's BME PhD program is unique in that admitted students are not tied to a lab group upon entry; 1st year PhD students do 2-3 lab rotations, which helps both the students and the PIs find a good fit. So while students are admitted with a lab match in mind, the official joining of a lab does not occur until later in the 1st year.  
+- I always welcome working with MS students.  
+- If you are interested in joining my group, please apply to the Yale BME PhD or MS Program. More information on the graduate program and application can be found [here](https://engineering.yale.edu/academic-study/departments/biomedical-engineering/graduate-study).
 
 ------
 
 ## Recent Happenings
+- Very excited to serve as a Program Chair for MICCAI 2027 - November 2, 2026
 - 1 paper accepted in round 1 submission to WACV 2027 - Congrats Camille! - August 10, 2026
 - Happy to join the Editorial Board of Medical Image Analysis as an Associate Editor - July 31, 2026
--  Congrats Jiyao and co-authors on the publication of your [paper in Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841526002902)!  - July 28, 2026
+- Congrats Jiyao and co-authors on the publication of your [paper in Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841526002902)!  - July 28, 2026
 - 1 more [paper](https://arxiv.org/abs/2606.28537) accepted for presentation at MICCAI 2026 - Congrats Yuexi! - June 12, 2026
 - 2 papers early accepted for presentation at MICCAI 2026 - Congratulations [Junlin](https://arxiv.org/abs/2605.26376) and [Ziqi](https://arxiv.org/abs/2603.24968)! - May 7, 2026
 - 1 [paper](https://arxiv.org/abs/2603.01607) accepted for presentation at ICLR 2026 - Congrats Yuexi! - January 26, 2026
